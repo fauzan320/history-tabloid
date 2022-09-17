@@ -12,6 +12,10 @@
 
   <!-- Favicons -->
   @include('sweetalert::alert')
+  {{-- @include('sweetalert::alert') --}}
+  <script src="sweetalert2.min.js"></script>
+  <link rel="stylesheet" href="sweetalert2.min.css">
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   {{-- <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> --}}
 
@@ -57,7 +61,7 @@
    <style>
 
       p{
-        text-indent: 0.5in;
+        text-indent: 0;
       }
          
       .blog_section {
@@ -337,7 +341,7 @@
        <br>
         &copy; Copyright <strong><span>E-HISTAB</span></strong>
         <p style="margin-bottom: 0rem">Universitas Negeri Malang | Fakultas Ilmu Sosial 
-          | Jurusan Sejarah | Prodi Pendidikan Sejarah </p>
+          | Departemen Sejarah | Prodi Pendidikan Sejarah </p>
           <p> Narahubung: Zahira Irhamni Arrovia (WA.081331209943)</p>
       </div>
       {{-- <div class="credits">

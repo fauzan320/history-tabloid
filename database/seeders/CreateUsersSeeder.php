@@ -20,14 +20,14 @@ class CreateUsersSeeder extends Seeder
                'email'=>'admin@gmail.com',
                 'is_admin'=>'1',
                'password'=> bcrypt('admin123'),
-               'kelas'=> '11 MIPA 1',
+               'kelas'=> 'admin',
             ],
             [
                'name'=>'Siswa',
                'email'=>'siswa@gmail.com',
                 'is_admin'=>'0',
                'password'=> bcrypt('siswa123'),
-               'kelas'=> 'admin',
+               'kelas'=> '11 MIPA 1',
             ],
         ];
   

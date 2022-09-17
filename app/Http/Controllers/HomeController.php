@@ -34,7 +34,7 @@ class HomeController extends Controller
     }
     public function adminHome()
     {
-        return view('admin/homeAdmin');
+        return view('admin/home_admin');
     }
     public function respon()
     {   
@@ -58,6 +58,23 @@ class HomeController extends Controller
     {   
         return view('siswa/tabloid3');
     }
+    public function tabloid4()
+    {   
+        return view('siswa/tabloid4');
+    }
+    public function tabloid5()
+    {   
+        return view('siswa/tabloid5');
+    }
+    public function tabloid6()
+    {   
+        return view('siswa/tabloid6');
+    }
+    public function tabloidtest()
+    {   
+        return view('siswa/tabloidtest');
+    }
+
     public function post(Request $request)
     {   
         $soal=DB::table('soal')->get();
