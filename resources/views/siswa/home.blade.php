@@ -18,7 +18,7 @@
           <div class="carousel-item active" id="vanta-container">
             <div class="carousel-container">
               <div class="carousel-content container">
-                {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
                 <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.globe.min.js"></script>
                 <script>
                 VANTA.GLOBE({
@@ -33,8 +33,8 @@
                   color: 0xff553f
 
                 })
-                </script> --}}
-                <script src="three.r134.min.js"></script>
+                </script>
+                {{-- <script src="three.r134.min.js"></script>
                 <script src="vanta.globe.min.js"></script>
                 <script>
                 VANTA.GLOBE({
@@ -49,7 +49,7 @@
                   color: 0xf57200,
                   backgroundColor: 0x7071b
                 })
-                </script>
+                </script> --}}
                 {{-- <h2 class="animate__animated animate__fadeInDown"> <span>E-HISTAB</span></h2> --}}
                 <img width="45%" height="auto" src="assets/img/LOGO PUTIH.png" alt="">
                 {{-- <a href="#blog_section" style="background-color:orangered; border-color:orangered " class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> --}}
