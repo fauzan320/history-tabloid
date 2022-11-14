@@ -148,7 +148,7 @@
                                   </div>
                                   <ul>
                                       <li><i class="icon ion-md-person"></i>Zahira</li>
-                                      <li><i class="icon ion-md-calendar"></i>16 Juli, 2022</li>
+                                      <li><i class="icon ion-md-calendar"></i>16 Juli 2022</li>
                                   </ul>
                                   <p style="text-indent: 0" >“Wingate action”, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut...</p>
                                   <a href="/tabloid">Read More<i class="icofont-long-arrow-right"></i></a>
@@ -166,7 +166,7 @@
                                   </div>
                                   <ul>
                                     <li><i class="icon ion-md-person"></i>Zahira</li>
-                                    <li><i class="icon ion-md-calendar"></i>23 Juli, 2022</li>
+                                    <li><i class="icon ion-md-calendar"></i>23 Juli 2022</li>
                                   </ul>
                                   <p style="text-indent: 0">Merdeka, satu kata yang umumnya kita pahami dengan arti kebebasan. Proklamasi yang dikumandangkan oleh Ir.Soekarno...</p>
                                   <a href="/tabloid2">Read More<i class="icofont-long-arrow-right"></i></a>
@@ -184,7 +184,7 @@
                                 </div>
                                 <ul>
                                   <li><i class="icon ion-md-person"></i>Zahira</li>
-                                  <li><i class="icon ion-md-calendar"></i>30 Juli, 2022</li>
+                                  <li><i class="icon ion-md-calendar"></i>30 Juli 2022</li>
                                 </ul>
                                 <p style="text-indent: 0">Apakah kalian pernah mendengar kata “brigade”? Atau belum pernah sama sekali? Brigade diartikan...</p>
                                 <a href="/tabloid3">Read More<i class="icofont-long-arrow-right"></i></a>
@@ -202,7 +202,7 @@
                                 </div>
                                 <ul>
                                   <li><i class="icon ion-md-person"></i>Zahira</li>
-                                  <li><i class="icon ion-md-calendar"></i>6 Agustus, 2022</li>
+                                  <li><i class="icon ion-md-calendar"></i>6 Agustus 2022</li>
                                 </ul>
                                 <p style="text-indent: 0">Jika kalian pernah melewati kantor bupati Kabupaten Jember pasti melihat patung besar didepannya. Nama tokoh...</p>
                                 <a href="/tabloid4">Read More<i class="icofont-long-arrow-right"></i></a>
@@ -220,7 +220,7 @@
                                 </div>
                                 <ul>
                                   <li><i class="icon ion-md-person"></i>Zahira</li>
-                                  <li><i class="icon ion-md-calendar"></i>13 Agustus, 2022</li>
+                                  <li><i class="icon ion-md-calendar"></i>13 Agustus 2022</li>
                                 </ul>
                                 <p style="text-indent: 0">Umumnya untuk mengenang jasa-jasa para pejuang kemerdekaan dapat diabadikan melalui sebuah...</p>
                                 <a href="/tabloid5">Read More<i class="icofont-long-arrow-right"></i></a>
@@ -238,7 +238,7 @@
                                 </div>
                                 <ul>
                                   <li><i class="icon ion-md-person"></i>Zahira</li>
-                                  <li><i class="icon ion-md-calendar"></i>20 Agustus, 2022</li>
+                                  <li><i class="icon ion-md-calendar"></i>20 Agustus 2022</li>
                                 </ul>
                                 <p style="text-indent: 0">Nama dr. Soebandi saat ini diabadikan sebagai nama tempat fasilitas yang bergelut dibidang kesehatan, seperti ...</p>
                                 <a href="/tabloid6">Read More<i class="icofont-long-arrow-right"></i></a>
@@ -293,7 +293,7 @@
                       </li>
                     </ul>
                 </li>
-                    <li class="active"><a>sejarah Lokal</a>
+                    <li class="active"><a>Sejarah Lokal</a>
                         <ul class="list-unstyled">
                           <li>
                             <a >

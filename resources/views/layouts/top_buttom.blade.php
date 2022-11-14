@@ -341,8 +341,8 @@
        <br>
         &copy; Copyright <strong><span>E-HISTAB</span></strong>
         <p style="margin-bottom: 0rem">Universitas Negeri Malang | Fakultas Ilmu Sosial 
-          | Departemen Sejarah | Prodi Pendidikan Sejarah </p>
-          <p> Narahubung: Zahira Irhamni Arrovia (WA.081331209943)</p>
+          | Departemen Sejarah | S1 Prodi Pendidikan Sejarah </p>
+          <p> Narahubung: Zahira Irhamni Arrovia (WA. 081331209943)</p>
       </div>
       {{-- <div class="credits">
         <!-- All the links in the footer should remain intact. -->
