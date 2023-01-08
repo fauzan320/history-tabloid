@@ -100,6 +100,12 @@
               <h4 class="sidebar-title">Daftar Bacaan Lain</h4> 
               <hr>
               <ul class="list-unstyled">
+                  <li class="media my-4">
+                        <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/foto artikel pertama/1.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h5 class="mt-0 mb-1"><a href="/tabloid7">Mengenal Garis Demarkasi, Penyebab Resimen 40/Damarwulan Hijrah Ke Wilayah Republik</a></h5> 9 Juli, 2022
+                        </div>
+                  </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/1.jpg" alt="Generic placeholder image">
                       <div class="media-body">
@@ -141,6 +147,7 @@
                       <div class="media-body">
                           <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 27 Agustus, 2022
                       </div>
+                        <i class='fa fa-arrow-circle-left' style='color: orange'></i>
                   </li>
               </ul>
             </div>

@@ -70,6 +70,10 @@ class HomeController extends Controller
     {   
         return view('siswa/tabloid6');
     }
+    public function tabloid7()
+    {   
+        return view('siswa/tabloid7');
+    }
     public function tabloidtest()
     {   
         return view('siswa/tabloidtest');

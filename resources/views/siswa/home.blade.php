@@ -123,7 +123,7 @@
               <div class="container"data-aos="fade-up" data-aos-delay="100" >
                   <div class="blog_content">
                       <h3 style="-webkit-text-fill-color: rgb(248, 109, 59)">Daftar Bacaan</h3> <hr>
-                      {{-- <section id="portfolio" class="portfolio section-bg">
+                      <!-- {{-- <section id="portfolio" class="portfolio section-bg">
                         <div class="container" data-aos="fade-up" data-aos-delay="100">
                           <div class="row">
                             <div class="col-lg-12">
@@ -135,11 +135,28 @@
                             </div>
                           </div>
                         </div>
-                      </section> --}}
+                      </section> --}} -->
                       <div class="owl-carousel owl-theme">
                           <div class="blog_item filter-nasional" data-aos="fade-up" data-aos-delay="100">
                               <div class="blog_image">
-                                  <img class="img-fluid" src="assets/img/gambar/1.jpg" alt="images not found">
+                                  <img class="img-fluid" src="assets/img/gambar/foto artikel pertama/1.jpg" alt="images not found">
+                                  <span><i class="icon ion-md-create"></i></span>
+                              </div>
+                              <div class="blog_details">
+                                  <div class="blog_title">
+                                      <h5><a href="/tabloid7">Mengenal Garis Demarkasi, Penyebab Resimen 40/Damarwulan Hijrah Ke Wilayah Republik</a></h5>
+                                  </div>
+                                  <ul>
+                                      <li><i class="icon ion-md-person"></i>Zahira</li>
+                                      <li><i class="icon ion-md-calendar"></i>9 Juli 2022</li>
+                                  </ul>
+                                  <p style="text-indent: 0" >“Wingate action”, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut...</p>
+                                  <a href="/tabloid7">Read More<i class="icofont-long-arrow-right"></i></a>
+                              </div>
+                          </div> 
+                          <div class="blog_item filter-nasional" data-aos="fade-up" data-aos-delay="100">
+                              <div class="blog_image">
+                                  <img class="img-fluid" src="assets/img/gambar/foto artikel ke2/1.jpg" alt="images not found">
                                   <span><i class="icon ion-md-create"></i></span>
                               </div>
                               <div class="blog_details">
@@ -198,7 +215,7 @@
                             </div>
                             <div class="blog_details">
                                 <div class="blog_title">
-                                    <h5><a href="/tabloid4">Mengenal Lebih Dekat Komandan Brigade III/Damarwulan, Letkol. Sroedji</a></h5>
+                                    <h5><a href="/tabloid4">Mengenal Lebih Dekat Komandan Brigade III/Damarwulan, Letkol. Mochammad Sroedji</a></h5>
                                 </div>
                                 <ul>
                                   <li><i class="icon ion-md-person"></i>Zahira</li>
@@ -265,8 +282,126 @@
                       </div>
                   </div>
               </div>
-          </section>
+            </section>
           <!-- End About Us Section -->
+          <!-- Salam berita -->
+            <section style="margin-top: -7rem;" class="blog_section" id="blog_section">
+              <div class="container"data-aos="fade-up" data-aos-delay="100" >
+                  <div class="blog_content">
+                    <h3 style="-webkit-text-fill-color: rgb(248, 109, 59)">Salam Berita</h3> <hr>
+                    <div class="row no-gutters">
+                      
+                      <div  class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <br>
+                        <div style="  margin-top: -3rem ; padding-bottom: 0px" class="section-title text text-left" data-aos="fade-up" data-aos-delay="100">
+                          <br>
+                          <h5 >TABLOID E-HISTAB EDISI I: PERTEMPURAN KARANG KEDAWUNG 1949</h5>
+                          <hr>
+                        </div>
+                        <!-- paragraf 1 -->
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem" class="description"> Halo sobat! Salam Jas Merah dari kami menyapa para pembaca E-HISTAB. Puji syukur kami ucapkan kepada Tuhan Yang Maha Esa dengan segala anugerah-Nya edisi pertama tabloid E-HISTAB berhasil diterbitkan. Tidak lupa kami mengucapkan terima kasih kepada pihak-pihak yang ikut serta dalam proses penerbitan. E-HISTAB hadir sebagai tabloid digital yang membahas tentang sejarah lokal di Kabupaten Jember.</p>
+                          <br>
+                        </div>
+                      </div>
+                      <!-- paragraf 2 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Pada edisi pertama kami mengulas peristiwa pada masa Perang Kemerdekaan II di Jember yaitu Pertempuran Karang Kedawung 1949. Alasan kami memilih ulasan tersebut adalah minimnya pengetahuan dan pemahaman generasi muda mengenai sejarah lokal disekitarnya. Terlebih minimnya informasi dalam buku teks pelajaran Sejarah Indonesia untuk tingkat SMA/MA se-derajat tentang Pertempurang Karang Kedawung 1949. </p>
+                          <br>
+                        </div>
+                      </div>
+                      <!-- paragraf 3 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Terdapat beberapa artikel digital (online) yang telah membahas tentang Pertempuran Karang Kedawung 1949 beserta peristiwa yang berkaitan dengan alamat website terpisah. Namun, pada edisi kali ini redaksi berusaha mengemas susunan-susunan peristiwa tersebut menjadi artikel-artikel dalam satu edisi dan tidak terpisahkan. Sehingga informasi yang disajikan secara berurutan, menggunakan bahasa yang sederhana, memudahkan para pembaca untuk memahaminya, dan terdapat beberapa gambar pendukung dalam setiap artikel.</p>
+                          <br>
+                        </div>
+                      </div>
+                      <!-- paragraf 3 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Kami berharap hadirnya tabloid E-HISTAB pada edisi pertama ini memberikan informasi terbaru dan bermanfaat bagi pembacanya, meskipun masih ada kekurangan yang perlu diperbaiki. Maka dari itu, kritik dan saran bersifat membangung dapat menjadi dasar bagi kami untuk lebih baik ke depannya.</p>
+                          <br>
+                        </div>
+                      </div>
+                      <!-- paragraf 4 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Terima kasih. Selamat membaca!</p>
+                          <br>
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Redaksi</p>
+                          <br>
+                        </div>
+                      </div>
+
+                    </div> 
+                  </div>
+              </div>
+            </section>
+          <!-- End salam berita -->
+          <!-- susunan redaksi -->
+          <section style="margin-top: -5rem;" class="blog_section" id="blog_section">
+              <div class="container"data-aos="fade-up" data-aos-delay="100" >
+                  <div class="blog_content">
+                    <h3 style="-webkit-text-fill-color: rgb(248, 109, 59)">Susunan Redaksi</h3> <hr>
+                    <div class="row no-gutters">
+                      <!-- paragraf 1 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">
+                            Pembimbing:
+                            <br/> 1.	Aditya Nugroho Widiadi, S.Pd, M.Pd, Ph.D.
+                            <br/> 2.	Ronal Ridhoi, S.Hum, M.A.  
+                          </p>
+                          <br>
+                        </div>
+                      </div>
+                      <!-- paragraf 1 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">
+                            Redaksi :
+                            <br/>1.	Zahira Irhamni Arrovia
+                          </p>
+                          <br>
+                        </div>
+                      </div>
+                      <!-- paragraf 1 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">
+                            Desain dan IT:
+                            <br/> 1.	Moh. Sholihul Fauzan
+                          </p>
+                          <br>
+                        </div>
+                      </div>
+                    </div> 
+                  </div>
+              </div>
+            </section>
+          <!-- End susuan redaksi -->
+          <!-- alamat redaksi -->
+          <section style="margin-top: -5rem;" class="blog_section" id="blog_section">
+              <div class="container"data-aos="fade-up" data-aos-delay="100" >
+                  <div class="blog_content">
+                    <h3 style="-webkit-text-fill-color: rgb(248, 109, 59)">Alamat Redaksi</h3> <hr>
+                    <div class="row no-gutters">
+                      <!-- paragraf 1 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">
+                            Jl. Jayanegara No. 55 Dusun Krajan, Desa Pecoro, Kecamatan Rambipuji, Kabupaten Jember. 
+                          </p>
+                          <br>
+                        </div>
+                      </div>
+                    </div> 
+                  </div>
+              </div>
+            </section>
+          <!-- End alamat redaksi -->
 
         </div>
         <div class="col-md-3 mb40" data-aos="fade-up" data-aos-delay="1000">

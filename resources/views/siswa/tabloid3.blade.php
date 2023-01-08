@@ -17,7 +17,7 @@
           <section id="about" class="about">
             <div class="section-title" data-aos="fade-up" data-aos-delay="100">
               <h2 style="-webkit-text-fill-color: rgb(248, 109, 59)">PERTEMPURAN KARANG KEDAWUNG</h2>
-              {{-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> --}}
+              <!-- {{-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> --}} -->
             </div>
             <!-- carousel -->
             <div class="container">
@@ -36,10 +36,10 @@
                           <hr>
                         </div>
                         <!-- paragraf 1 -->
-                        {{-- <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                        <!-- {{-- <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">    “Wingate action”, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut. Oke, perlu kalian ketahui sebelum peristiwa Pertempuran Karang Kedawung, pasukan Brigade III/Damarwulan yang dipimpin oleh Sroedji melakukan wingate action. Apa wingate action itu? Dilansir dari laman Pusjarah TNI, wingate action adalah, “menempatkan kembali setiap pasukan ke asalnya, setelah melakukan hijrah ke luar daerah kekuasaan Belanda sebelum Perundingan Renville”. Pasca ditandatanganinya Perundingan Renville  pada tanggal 17 Januari 1948 ternyata memberikan dampak merugikan bagi Indonesia, salah satunya memicu munculnya Agresi Militer II Belanda.</p>
                           
-                        </div> --}}
+                        </div> --}} -->
                         
                       </div>
                       <!-- gambar -->
@@ -60,7 +60,7 @@
                       <!-- paragraf 2 -->
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem" class="description">Dalam lintas sejarah Indonesia, TNI didirikan pada tanggal 3 Juni 1947. Pada tahun tersebut, kondisi Indonesia masih berada dibawah kekuasaan Belanda. Buktinya ketika Perundingan Renville ditandatangani pada tanggal 17 Januari 1948 yang memaksa setiap pasukan TNI melakukan “hijrah” atau pindah ke wilayah yang masih bagian dari Republik Indonesia. 
+                          <p style="margin-bottom: 0rem" class="description">Dalam lintas sejarah Indonesia, TNI didirikan pada tanggal 3 Juni 1947. Pada tahun tersebut, kondisi Indonesia masih berada di bawah kekuasaan Belanda. Buktinya ketika Perundingan <i> Renville</i> ditandatangani pada tanggal 17 Januari 1948 memaksa setiap pasukan TNI melakukan “hijrah” atau pindah ke wilayah yang masih termasuk bagian dari Republik Indonesia dengan melintasi garis demarkasi (garis perbatasan wilayah). Di wilayah Besuki hijrah dilakukan oleh Resimen 40/Damarwulan dari Karesidenan Besuki menuju Karesidenan Kediri.
                             </p>
                         </div>
                       </div>
@@ -70,7 +70,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                            Di wilayah Jawa Timur, ada beberapa daerah yang dikuasai oleh Indonesia dan Belanda setelah Perundingan Renville. Daerah yang masih bagian dari Republik Indonesia yaitu Karesidenan Bojonegoro, Karesidenan Kediri, dan Karesidenan Madiun. Sedangkan daerah yang dikuasai Belanda yaitu Karesidenan Malang, Karesidenan Surabaya, dan Karesidenan Besuki. Resimen 40/Damarwulan yang saat itu berada di Karesidenan Besuki terpaksa melakukan hijrah menuju ke Karesidenan Malang, kemudian ke Karesidenan Kediri.   
+                          Tidak lama kemudian, kabinet Amir Sjarifuddin turun jabatan dan digantikan kabinet Hatta. Kabinet tersebut menetapkan kebijakan Reorganisasi dan Rasionalisasi (Rera) Angkatan Perang, termasuk TNI. Tujuan dari Rera adalah meminimalisir jumlah tantara, menghemat belanja negara terlebih wilayah Republik bertambah sempit dan hanya terdiri dari daerah minus, serta blokade ekonomi yang dilakukan oleh Belanda.
                           </p>
                         </div>
                       </div>
@@ -79,7 +79,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                            Tidak lama kemudian, kabinet Amir Sjarifuddin turun jabatan dan digantikan kabinet Hatta I. Kabinet tersebut menetapkan kebijakan Reorganisasi dan Rasionalisasi (Rera) Angkatan Perang, termasuk TNI. Namun sayangnya, ketika program tersebut akan terlaksana timbul peristiwa PKI Madiun pada tanggal 18 September 1948.   
+                          Selain itu, belajar dari pengalaman saat Belanda melakukan agresi militer pertamanya banyak organisasi-organisasi bersenjata seperti divisi TNI, brigade kelaskaran, dan sebagainya sehingga organisasi bersenjata tersebut akan dilebur menjadi kesatuan tantara di bawah komando. Namun sayangnya, ketika program tersebut akan terlaksana timbul peristiwa PKI Madiun pada tanggal 18 September 1948. 
                           </p>
                         </div>
                       </div>
@@ -110,24 +110,24 @@
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <br>
                           <p style="margin-bottom: 0rem" class="description">
-                            Setelah gerakan PKI Madiun 1948 berhasil ditumpas, Resimen 40/Damarwulan saat itu berganti status menjadi Brigade Mobile Damarwulan dibawah komandan Letnan Kolonel Mochammad Sroedji. Tugas pasukan tersebut adalah membersihkan sisa-sisa pemberontakkan PKI Madiun yang masih bertebaran di Blitar.  
+                          Setelah gerakan PKI Madiun 1948 berhasil ditumpas, Resimen 40/Damarwulan saat itu berganti status menjadi Brigade Mobil Damarwulan di bawah komandan Letkol. Mochammad Sroedji. Tugas pasukan tersebut adalah membersihkan sisa-sisa pemberontakkan PKI Madiun yang masih bertebaran di Blitar. 
                           </p>
                         </div>
                         
                       </div>
-                      <div class="col-lg-2 video-box" data-aos="fade-up" data-aos-delay="200">
+                      <!-- <div class="col-lg-2 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         {{-- <img src="assets/img/agresi2.jpg" class="img-fluid" alt="gambar" width="400">
                         <p><i>Sumber: <a href="https://www.tribunnewswiki.com/2019/08/06/agresi-militer-belanda-ii">www.tribunnewswiki.com</a></i></p> --}}
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
-                      </div>
+                      </div> -->
 
                      
                       <!-- paragraf 2 -->
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                            Setelah semua antek-antek pemberontakkan PKI Madiun benar-benar ditumpaskan, kesatuan militer Jawa Timur kembali melaksanakan program Rera yang sempat tertunda. Dengan sah, tanggal 1 November 1948 Kolonel Soengkono dilantik sebagai Panglima Divisi I Jawa Timur. Selanjutnya peresmian pasukan-pasukan Divisi I Jawa Timur dilaksanakan tanggal 17 Desember 1948 di Lapangan Kuwak, Kediri.
+                          Setelah semua antek-antek pemberontakkan PKI Madiun benar-benar ditumpaskan program Rera yang sempat tertunda mulai dilaksanakan kembali. Secara keseluruhan Rera dalam TNI AD berakhir ketika didirikannya MBKD (Markas Besar Komando Djawa) dan MBKS (Markas Besar Komando Sumatera) pada tanggal 28 Oktober 1948. Markas besar MBKD berlokasikan di Gondokusuman, Yogyakarta. Kemudian MBKD dipimpin oleh A. H. Nasution sebagai PTTD (Panglima Tentara dan Teritorial Djawa). 
                           </p>
                         </div>
                       </div>
@@ -136,39 +136,33 @@
                         <!-- paragraf 3 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                            Pasukan-pasukan Divisi I Jawa Timur saat itu terdiri dari 6 brigade. Untuk Brigade Mobile Damarwulan berganti menjadi Brigade III/Damarwulan dengan komandan tetap,\ Letkol. Mochammad Sroedji. 
+                          MBKD terdiri dari empat divisi salah satunya Divisi I Jawa Timur. Dengan sah, tanggal 1 November 1948 Kolonel Soengkono dilantik sebagai Panglima Divisi I Jawa Timur. Selanjutnya peresmian pasukan-pasukan Divisi I Jawa Timur dilaksanakan tanggal 17 Desember 1948 di Lapangan Kuwak, Kediri.
                           </p>
                         </div>
                         
                       </div>
-                      
+                      <!-- gambar -->
+                      <div style="text-align: center;" class="col-lg-10 video-box about-content" data-aos="fade-up" data-aos-delay="200">
+                        <br>
+                        <img src="assets/img/gambar/atikel 3/2.jpg" class="img-fluid" alt="gambar"  width="400" >
+                        <p style="text-indent: 0;">
+                          <i>A. H. Nasution (Kiri) dan Kolonel Soengkono (Kanan)</i><br>
+                          <i>Sumber : Nasution, 1966; Semdam VIII/Brawidjadja, 1968</i>
+                        </p>
+                        {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
+                      </div>
                       <!-- paragraf 4 -->
                       <div class="col-lg-2 video-box"data-aos="fade-up" data-aos-delay="300">
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                            Markas besar Brigade III/Damarwulan terletak di Blitar, sedangkan markas batalyon-batalyonnya ditempatkan secara terpisah. Batalyon 25 yang dengan komandan Mayor Sjafiuddin terletak di Wlingi. Batalyon 26 yang dikomandoi oleh E.J. Magenda terletak di Malang. Batalyon 27 dengan komandannya Mayor Soedarmin terletak di Ngunut dan Batalyon Depot di Djengkol (Kediri) dibawah komandan Mayor Darsan Iroe. 
+                          Pasukan-pasukan Divisi I Jawa Timur saat itu terdiri dari 6 brigade. Semula Resimen 40/Damarwulan yang sempat berganti status menjadi Brigade Mobil Damarwulan dilebur menjadi Brigade III/Damarwulan dengan komandan tetap, Letkol. Mochammad Sroedji. 
 
                           </p>
                         </div>
                       </div>
-                      <!-- paragraf 5 -->
-                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
-                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem" class="description">
-                            Setelah program Rera selesai terlaksana dengan sempurna, sayangnya Belanda mengkhianati Perundingan Renville. Buktinya pada tanggal 19 Desember 1948 terjadi Agresi Militer Belanda II. Pasukan Belanda menyerang wilayah Republik Indonesia yaitu Yogyakarta.
-                          </p>
-                        </div>
-                      </div>
-                      <!-- paragraf 6 -->
-                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
-                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem" class="description">
-                            Atas peristiwa tersebut, Panglima Besar Jenderal Soedirman memerintahkan setiap pasukan TNI melakukan wingate action, termasuk Brigade III/Damarwulan untuk kembali ke wilayah asalnya yaitu Karesidenan Besuki. 
-                          </p>
-                        </div>
-                      </div>
+                      
                       <!-- tombol next -->
                       <div class="col-lg-12 d-flex flex-column justify-content-center about-content">
                         <div class="section-title text text-right"  data-aos="fade-up" data-aos-delay="200">
@@ -184,32 +178,45 @@
                     </div>
                   </div>
                   <!--  -->
-                  
-                  <div class="carousel-item ">
-                    <!--halaman 4 -->
+                  <div class="carousel-item">
+                    <!--halaman 3 -->
                     <div class="row no-gutters">
-                      
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                        
-                        <!-- paragraf 1 -->
+                        <!-- paragraf 2 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="text-indent: 0in;" style="margin-bottom: 0rem" class="description">
-                            <b><span>Referensi :</span> </b>
-                            <br/> - Arifin, Idrus Rahman. 2018. <i> "Reorganisasi Dan Rasionalisasi Angkatan Perang Republik Indonesia (1947-1950) Membangun Organisasi Militer Yang Efektif Dan Efisien."</i> Universitas Negeri Jakarta.
-                            <br/> - Dinas Sejarah TNI AD. 1982. Sejarah TNI-AD 1945-1973. Bandung: Dinas Sejarah TNI AD.
-                            <br/> - Penerangan Angkatan Darat. 1957.  <i>“Menembus Gunung Semeru.”.</i> Penerangan Angkatan Darat, Juli.
-                            <br/> - Proyek Penelitian dan Pencatatan Kebudayaan Daerah. 1978. Sejarah Daerah Jawa Timur. Jakarta: Departemen Pendidikan dan Kebudayaan.
-                            Semdam VIII/Brawidjadja. 1968. Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam VIII/Brawijaya. Malang: Semdam VIII/Brawidjadja.
-                            
+                          <br>
+                          <p style="margin-bottom: 0rem" class="description">
+                          Markas besar Brigade III/Damarwulan terletak di Blitar, sedangkan markas batalyon-batalyonnya ditempatkan secara terpisah. Batalyon 25 yang dengan komandan Mayor Sjafiuddin terletak di Wlingi. Batalyon 26 yang dikomandoi oleh E. J. Magenda terletak di Malang. Batalyon 27 dengan komandannya Mayor Soedarmin terletak di Ngunut dan Batalyon Depot di Djengkol (Kediri) di bawah komandan Mayor Darsan Iroe.
                           </p>
                         </div>
                         
                       </div>
-                      <div class="col-lg-2 video-box" data-aos="fade-up" data-aos-delay="200">
-                        <br>
-                        {{-- <img src="assets/img/agresi2.jpg" class="img-fluid" alt="gambar" width="400">
-                        <p><i>Sumber: <a href="https://www.tribunnewswiki.com/2019/08/06/agresi-militer-belanda-ii">www.tribunnewswiki.com</a></i></p> --}}
-                        {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
+                      <!-- paragraf 2 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem" class="description">
+                          Setelah program Rera selesai terlaksana dengan sempurna, maka langkah selanjutnya mempertimbangkah konsep pertahanan karena dikhawatirkan Belanda akan melakukan agresi militer kembali. Bahkan tantara Belanda telah memindahkan pasukannya di dekat garis demarkasi. Oleh karena itu, disusun Pertahanan Rakyat Semesta yaitu peperangan tidak hanya dilakukan oleh Angkatan Perang saja melainkan juga bersama seluruh rakyat.
+                          </p>
+                        </div>
+                      </div>
+                      <!-- paragraf 3 -->
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem" class="description">
+                          Konsep Pertahanan Rakyat Semesta selanjutnya dijelaskan dalam Perintah Siasat No. 1 Panglima Besar Angkatan Perang yang telah ditetapkan sebelumnya pada awal November 1948. Inti dari Perintah Siasat tersebut adalah melakukan perlawanan dengan perang gerilya secara agresif oleh tantara bersama rakyat dalam waktu lama untuk membela RI dan memenangkan perang.
+                          </p>
+                        </div>
+                      </div>
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                       
+                        <!-- paragraf 4 -->
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="margin-bottom: 0rem" class="description">
+                          Selanjutnya pada tanggal 19 Desember 1948 Belanda melakukan agresi militernya kedua dengan menyerang ibukota Yogyakarta tepatnya di Lapangan Terbang Maguwo. Atas kejadian tersebut maka dikeluarkan Perintah Kilat No. 1 sebagai kelanjutan dari Perintah Siasat No. 1. Setelah dikeluarkannya Perintah Kilat Panglima Divisi I Kolonel Soengkono memerintahkan Brigade III/Damarwulan melakukan <i>wingate</i> kembali ke Besuki. 
+                          </p>
+                        </div>
+                        
                       </div>
                       
                       <!-- tombol next -->
@@ -219,7 +226,49 @@
                           <hr>
                           <h2>3</h2>
                           <div class="text text-right mt-4"data-aos="fade-up" data-aos-delay="400">
-                            <a data-target="#carouselExampleCaptions" data-slide-to="1"><button style="background-color:orangered; border-color:orangered " class="btn btn-primary scroll-up">Prev</button></a>
+                            <a data-target="#carouselExampleCaptions" data-slide-to="1"><button   style="background-color:orangered; border-color:orangered " class="btn btn-primary scroll-up">Prev</button></a>
+                            <a data-target="#carouselExampleCaptions" data-slide-to="3"><button   style="background-color:orangered; border-color:orangered " class="btn btn-primary scroll-up">Next</button></a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--  -->
+                  <div class="carousel-item ">
+                    <!--halaman 4 -->
+                    <div class="row no-gutters">
+                      
+                      <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
+                        <!-- paragraf 1 -->
+                        <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                          <p style="text-indent: 0in;text-indent: 0" style="margin-bottom: 0rem" class="description">
+                          <b><span>Referensi :</span> </b>
+                            <br>
+                            <b><span>Buku :</span> </b>
+                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973</i>. Bandung: Dinas Sejarah TNI AD.
+                            <br/> - Nasution, A. H. 1966. <i>Sejarah Nasional Perjuangan di Bidang Bersenjata.</i> Jakarta : Mega Bookstore.
+                            <br/> - Penerangan Angkatan Darat. 1957. <i>Menembus Gunung Semeru.</i> Penerangan Angkatan Darat, Juli.
+                            <br/> - Poesponegoro, M. D., & Nugroho, N. (Ed.). 2010. <i>Sejarah Nasional Indonesia, Zaman Jepang dan Zaman Republik.</i> Jakarta: Balai Pustaka.
+                            <br/> - Proyek Penelitian dan Pencatatan Kebudayaan Daerah. 1978. <i>Sejarah Daerah Jawa Timur.</i> Jakarta: Departemen Pendidikan dan Kebudayaan.
+                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam VIII/Brawijaya.</i> Malang: Semdam VIII/Brawidjadja.
+                            <br>
+                            <br>
+                            <b><span>Gambar :</span> </b>
+                            <br/> - Ipphos Anri. 1949. <i>Moh. Hatta didampingi seorang perwira berjalan melintasi barisan TNI, (Online),</i> ( <a href="http://anri.sikn.go.id" target="_blank">anri.sikn.go.id</a> ), diakses 2 Juli 2022. 
+                            
+                          </p>
+                        </div>
+                        
+                      </div>
+                      
+                      <!-- tombol next -->
+                      <div class="col-lg-12 d-flex flex-column justify-content-center about-content">
+                        <div class="section-title text text-right"  data-aos="fade-up" data-aos-delay="200">
+                          <a style="position: relative ; display: inline" class="back-to-top" ><i style="color: #ff4500" class="icofont-simple-up"></i></a>
+                          <hr>
+                          <h2>4</h2>
+                          <div class="text text-right mt-4"data-aos="fade-up" data-aos-delay="400">
+                            <a data-target="#carouselExampleCaptions" data-slide-to="2"><button style="background-color:orangered; border-color:orangered " class="btn btn-primary scroll-up">Prev</button></a>
                             
                             {{-- <a href="{{route('soal')}}"><button style="background-color:#ff4500; border-color:orangered " class="btn btn-primary">Next</button></a> --}}
                           </div>
@@ -251,6 +300,12 @@
               <h4 class="sidebar-title">Daftar Bacaan Lain</h4> 
               <hr>
               <ul class="list-unstyled">
+                  <li class="media my-4">
+                        <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/foto artikel pertama/1.jpg" alt="Generic placeholder image">
+                        <div class="media-body">
+                            <h5 class="mt-0 mb-1"><a href="/tabloid7">Mengenal Garis Demarkasi, Penyebab Resimen 40/Damarwulan Hijrah Ke Wilayah Republik</a></h5> 9 Juli, 2022
+                        </div>
+                  </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/1.jpg" alt="Generic placeholder image">
                       <div class="media-body">
@@ -268,6 +323,7 @@
                     <div class="media-body">
                         <h5 class="mt-0 mb-1"><a href="/tabloid3">Histori Brigade III/Damarwulan</a></h5> 30 Juli, 2022
                     </div>
+                        <i class='fa fa-arrow-circle-left' style='color: orange'></i>
                   </li>
                   <li class="media">
                     <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/seruji2.jpeg" alt="Generic placeholder image">
