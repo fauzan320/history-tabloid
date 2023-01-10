@@ -46,14 +46,14 @@
                       <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/1b.jpg" class="img-fluid" alt="gambar" width="400">
-                        <p style="margin-bottom: 0rem;text-indent: 0"><i>Monumen Bambu Runcing di Desa Karang Kedawung</i></p>
-                        <p style="text-indent: 0"> sumber: <i>Dokumentasi Pribadi</i></p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Monumen Bambu Runcing di Desa Karang Kedawung</p>
+                        <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi</p>
                         
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">  
-                          Sebagaimana dijelaskan pada sub-bab sebelumnya, Pertempuran Karang Kedawung merupakan pertempuran yang terjadi di Desa Karang Kedawung antara pasukan Brigade III dibawah komando Sroedji melawan pasukan KNIL Belanda pada tanggal 8 Februari 1949. Pada pertempuran tersebut menyebabkan gugurnya Sroedji, dr. Soebandi, bersama anggota pasukan Brigade III lainnya. Sementara itu, untuk mengenang jasa-jasa pahlawan yang gugur dalam medan pertempuran umumnya didirikan sebuah monumen perjuangan. Adapun salah satu monumen perjuangan yang dimaksud untuk mengenang para pasukan yang gugur di Karang Kedawung tahun 1949 dikenal dengan nama Monumen Bambu Runcing atau Monumen Letkol. Moch.Sruji.
+                          Umumnya untuk mengenang jasa-jasa para pejuang kemerdekaan dapat diabadikan melalui sebuah monumen. Pertempuran Karang Kedawung, kisah heroik Sroedji, dr. Soebandi beserta para pasukan lainnya salah satunya dikenang melalui monumen yang dikenal dengan nama Monumen Bambu Runcing.
                           </p>
                           
                         </div>
@@ -62,7 +62,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                          Monumen Bambu Runcing dibangun di tengah ladang penduduk Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten Jember. Pembangunan monumen tersebut dilakukan oleh para pamong desa bersama rakyat dengan gotong-royong berdasarkan hasil keputusan oleh kepala desa setempat, Haji Abdul Ladim (Kartomihardjo, Saptono, and Soekarsono 1986). Dana yang digunakan untuk pembagunan monumen berasal dari swadaya masyarakat sekaligus hibah lurah setempat. Adanya inisiatif masyarakat setempat bersama kepala desa untuk pembangunan Monumen Bambu Runcing diniliai dapat sejalan dengan pengalaman empiris di Indonesia.  
+                          Monumen Bambu Runcing terletak di Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten Jember. Pembangunan monumen digagaskan oleh kepala desa, Haji Abdul Ladim dan dibangun secara gotong-royong oleh rakyat dan pamong desa. Dana yang digunakan untuk membangun monumen berasal dari sumbangan lurah dan dana swadaya masyarakat.
                             </p>
                         </div>
                       </div>
@@ -72,7 +72,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                          Menurut Armand (2013) pembangunan monumen ditujukan sebagai bentuk manifestasi suatu kekuasaan untuk memberi penegasan atas kekuatan dari kekuasaannya, sehingga secara geometris dan geografis memiliki fungsi ruang publik sekaligus ruang dalam tatanan sosial masyarakatnya. Merujuk pernyataan tersebut, jika dianalisis adanya pembangunan Monumen Bambu Runcing di Desa Karang Kedawung secara tersirat ingin menyampaikan bahwa pertempuran tersebut benar-benar terjadi disana. Adanya bambu runcing pada monumen sebagai salah satu senjata yang digunakan oleh para pejuang kemerdekaan Indonesia dalam perang menghadapi Belanda, sehingga dapat memperkuat lokasi kejadian pertempuran di Karang Kedawung sekaligus mampu menyampaikan sepucuk informasi kepada masyarakat setempat khususnya bagi generasi penerus meraka tentang sisi historinya. 
+                          Jika kalian lihat pada foto di atas, monumen tersebut berbentuk bambu runcing dan ujungnya dicat warna merah. Makna dari bambu runcing dan cat warna merah diujungnya diartikan sebagai senjata tradisional Indonesia yang dapat melukai bahkan membunuh musuh. 
                           </p>
                         </div>
                       </div>
@@ -103,26 +103,26 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-top: 2rem; margin-bottom: 0rem" class="description">
-                          Selain itu, jika diperhatikan secara seksama pada ujung Monumen Bambu Runcing dicat warna merah yang artikan sebagai lambang senjata tradisional Indonesia yang dapat melawan musuh hingga terluka bahkan terbunuh (Kartomihardjo et al. 1986). Tidak hanya itu, disamping Monumen Bambu Runcing terdapat prasasti atau cenderamata yang bertuliskan nama-nama pasukan Brigade III yang gugur dalam pertempuran. Adapun nama-nama pasukan tersebut diantaranya
+                          Tidak hanya bambu runcing, disampingnya terdapat sebuah cenderamata atau prasasti yang berisikan nama-nama pasukan yang gugur dalam Pertempuran Karang Kedawung. Nama-nama pasukan tersebut diantaranya:
                             <br/>
-                            <br/>1.	Letkol. Mochammad Sroedji
-                            <br/>2.	Letkol. dr. Soebandi
-                            <br/>3.	P. Slamet
-                            <br/>4.	P. Asban
-                            <br/>5.	P. Sakduni
-                            <br/>6.	Djuahir
-                            <br/>7.	Asan
-                            <br/>8.	Tobin
-                            <br/>9.	Dulla
-                            <br/>10. Kawi
-                            <br/>11.	Aswir
-                            <br/>12.	Da’i
-                            <br/>13.	Sahri
-                            <br/>14.	P. Nursija
-                            <br/>15.	Sudar
-                            <br/>16.	Sagidin
-                            <br/>17.	P. Srakmo
-                            <br/>18.	P. Satridja
+                            <br/>1.	Letkol. Mochammad Sroedji.
+                            <br/>2.	Letkol. dr. Soebandi.
+                            <br/>3.	P. Slamet.
+                            <br/>4.	P. Asban.
+                            <br/>5.	P. Sakduni.
+                            <br/>6.	Djuahir.
+                            <br/>7.	Asan.
+                            <br/>8.	Tobin.
+                            <br/>9.	Dulla.
+                            <br/>10. Kawi.
+                            <br/>11.	Aswir.
+                            <br/>12.	Da’i.
+                            <br/>13.	Sahri.
+                            <br/>14.	P. Nursija.
+                            <br/>15.	Sudar.
+                            <br/>16.	Sagidin.
+                            <br/>17.	P. Srakmo.
+                            <br/>18.	P. Satridja.
 
                           </p>
                         </div>
@@ -131,14 +131,14 @@
                       <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/3b.jpg" class="img-fluid" alt="gambar" width="400">
-                        <p style="margin-bottom: 0rem;text-indent: 0"><i>Cenderamata Nama-Nama Pasukan yang Gugur di Pertempuran Karang Kedawung</i></p>
-                        <p style="text-indent: 0"> sumber: <i>Dokumentasi Pribadi </i></p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Cenderamata Nama-Nama Pasukan yang Gugur di Pertempuran Karang Kedawung</p>
+                        <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi </p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">  
-                            Ingin melihat langsung monumen Bambu Runcing di Desa Karang Kedawung? Kalian bisa banget mengunjungi langsung monumen tersebut. Jika kalian tidak tahu, bisa dilacak melalui GPS kok. 
+                          Ingin melihat langsung monumen Bambu Runcing di Desa Karang Kedawung? Kalian bisa banget mengunjungi langsung monumen tersebut. Jika kalian tidak tahu, bisa dilacak melalui GPS kok. 
                           </p>
                           
                         </div>
@@ -149,7 +149,9 @@
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="text-indent: 0in;" style="margin-bottom: 0rem" class="description">
                             <b><span>Referensi :</span> </b>
-                            <br/> - Kartomihardjo, Prayoga, Prapto Saptono, dan Soekarsono. 1986. <i> Monumen Perjuangan Jawa Timur.</i> Jakarta: Departemen Pendidikan dan Kebudayaan.
+                            <br/> <b><span>Buku :</span> </b>
+                            <br/> - Kartomihardjo, Prayoga, Prapto Saptono, dan Soekarsono. 1986. <i>Monumen 
+                            <br/>&ensp;Perjuangan Jawa Timur</i>. Jakarta: Departemen Pendidikan dan Kebudayaan.
                           </p>
                         </div>
                       </div>
@@ -233,6 +235,12 @@
                         <h5 class="mt-0 mb-1"><a href="/tabloid6">Sang Dokter Gugur di Pertempuran Karang Kedawung, Dr. Soebandi</a></h5>20 Agustus, 2022 
                     </div>
                   </li>
+                    <li class="media my-4">
+                      <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
+                      <div class="media-body">
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                      </div>
+                    </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">

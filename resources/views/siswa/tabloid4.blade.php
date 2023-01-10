@@ -47,7 +47,7 @@
                         <br>
                         <img src="assets/img/gambar/seruji2.jpeg" class="img-fluid" alt="gambar" width="400">
                         <p style="margin-bottom: 0rem;text-indent: 0">Letkol. Mochammad Sroedji</p>
-                        <p style="text-indent: 0"> sumber: Johari, 2018</p>
+                        <p style="text-indent: 0"> Sumber: Johari, 2018</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
@@ -69,7 +69,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Sebelum berkarir dibidang militer, Sroedji menempuh beberapa jenjang pendidikan. Pertama beliau sekolah di HIS ( <i>Hollandsch-Inlandsche School</i> ) di Karesidenan Kediri. Selanjutnya, Sroedji bersekolah di <i>Ambacht Leergang</i> Malang, yaitu sekolah pendidikan teknik pertukangan. Tidak hanya itu, Sroedji tercatat pernah mengambil sekolah Pemberantasan Malaria. Dari sekolah itulah yang mengantarkan Sroedji datang ke Jember dan bekerja sebagai mantri malaria di <i>Gozondheids Kantoor</i> (Djawatan Kesehatan Rakyat). Saat ini Djawatan Kesehatan Rakyat dikenal dengan nama Rumah Sakit Paru yang lokasinya berada di Desa Kreongan, Kecamatan Patrang, Kabupaten Jember. 
+                          Sebelum berkarir dibidang militer, Sroedji menempuh beberapa jenjang pendidikan. Pertama beliau sekolah di HIS (<i>Hollandsch-Inlandsche School</i>) di Karesidenan Kediri. Selanjutnya, Sroedji bersekolah di <i>Ambacht Leergang</i> Malang, yaitu sekolah pendidikan teknik pertukangan. Tidak hanya itu, Sroedji tercatat pernah mengambil sekolah Pemberantasan Malaria. Dari sekolah itulah yang mengantarkan Sroedji datang ke Jember dan bekerja sebagai mantri malaria di <i>Gozondheids Kantoor</i> (Djawatan Kesehatan Rakyat). Saat ini Djawatan Kesehatan Rakyat dikenal dengan nama Rumah Sakit Paru yang lokasinya berada di Desa Kreongan, Kecamatan Patrang, Kabupaten Jember. 
                           </p>
                         </div>
                       </div>
@@ -135,7 +135,7 @@
                         <!-- paragraf 4 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Saat Agresi Militer I Belanda, Sroedji yang berperan sebagai komandan Resimen 39/Menak Koncar dan beralih menjadi komandan COG III ( <i>Commando Offensive Guerilla</i> ) untuk mempertahankan wilayah Karesidenan Besuki dari serangan Belanda. 
+                          Saat Agresi Militer I Belanda, Sroedji yang berperan sebagai komandan Resimen 39/Menak Koncar dan beralih menjadi komandan COG III (<i>Commando Offensive Guerilla</i>) untuk mempertahankan wilayah Karesidenan Besuki dari serangan Belanda. 
                           </p>
                         </div>
                       </div>
@@ -231,7 +231,7 @@
                         <br>
                         <img  src="assets/img/gambar/seruji.jpeg" class="img-fluid" alt="gambar" width="300">
                         <p style="margin-bottom: 0rem;">Monumen Letkol. Mochammad Sroedji di Depan Kantor Bupati Jember</p>
-                        <p style="text-indent: 0"> sumber: Dokumentasi Pribadi</p>
+                        <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       
@@ -267,7 +267,7 @@
                         <br>
                         <img  src="assets/img/gambar/makam.jpg" class="img-fluid" alt="gambar" width="300">
                         <p style="margin-bottom: 0rem;">Makam Letkol. Mochammad Sroedji</p>
-                        <p style="text-indent: 0"> sumber: Dokumentasi Pribadi</p>
+                        <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
@@ -278,23 +278,31 @@
                           <b><span>Referensi :</span> </b>
                             <br>
                             <b><span>Buku :</span> </b>
-                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973</i>. Bandung: Dinas Sejarah TNI AD.
+                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973</i>. Bandung: Dinas Sejarah 
+                            <br/>&ensp;TNI AD.
                             <br/> - Hakim, R. Z. 2020. <i>Durahem</i>. Yogyakarta: Pinggir.
-                            <br/> - Huda, A. I., & Hudi, S. 2012. <i>Pahlawan Jember</i> (E. N. Tjendani, Ed.). Jember: UIJ Kyai Mojo.
-                            <br/> - Jupriono, Ahmad, Z., & Purbandiyo, D. 2018. <i>Sekilas Wakil Rakyat dan Perkembangan Kabupaten Jember (Prasejarah s.d 1970-an)</i>. Jember: Sekretariat DPRD Kabupaten Jember.
-                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam VIII/Brawijaya</i>. Malang: Semdam VIII/Brawidjadja.
+                            <br/> - Huda, A. I., & Hudi, S. 2012. <i>Pahlawan Jember</i> (E. N. Tjendani, Ed.). Jember: UIJ Kyai 
+                            <br/>&ensp;Mojo.
+                            <br/> - Jupriono, Ahmad, Z., & Purbandiyo, D. 2018. <i>Sekilas Wakil Rakyat dan 
+                            <br/>&ensp;Perkembangan Kabupaten Jember (Prasejarah s.d 1970-an)</i>. Jember: 
+                            <br/>&ensp;Sekretariat DPRD Kabupaten Jember.
+                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam 
+                            <br/>&ensp;VIII/Brawijaya</i>. Malang: Semdam VIII/Brawidjadja.
                             <br>
                             <br>
                             <b><span>Artikel :</span> </b>
-                            <br/> - Widuatie, R. E. 2017. “Karang Kedawung 1949: Gugurnya Letnan Kolonel Mochammad Sroedji.” <i>Patrawidya 18</i>(2):237–51.
+                            <br/> - Widuatie, R. E. 2017. “Karang Kedawung 1949: Gugurnya Letnan Kolonel 
+                            <br/>&ensp;Mochammad Sroedji.” <i>Patrawidya 18</i>(2):237–51.
                             <br>
                             <br>
                             <b><span>Makalah :</span> </b>
-                            <br/> - Penerangan Angkatan Darat. 1957. <i>Menembus Gunung Semeru</i>. Penerangan Angkatan Darat, Juli.
+                            <br/> - Penerangan Angkatan Darat. 1957. <i>Menembus Gunung Semeru</i>. Penerangan 
+                            <br/>&ensp;Angkatan Darat, Juli.
                             <br>
                             <br>
                             <b><span>Gambar :</span> </b>
-                            <br/> - Johari, H. 2018. <i>Yang Gugur di Karang Kedawung</i>, (Online), (<a href="https://historia.id/" target="_blank">https://historia.id/</a>), diakses 27 Juli 2022. 
+                            <br/> - Johari, H. 2018. <i>Yang Gugur di Karang Kedawung</i>, (Online), (<a href="https://historia.id/" target="_blank">https://historia.id/</a>), 
+                            <br/>&ensp;diakses 27 Juli 2022. 
                             
                           </p>
                         </div>
@@ -388,6 +396,12 @@
                         <h5 class="mt-0 mb-1"><a href="/tabloid6">Sang Dokter Gugur di Pertempuran Karang Kedawung, Dr. Soebandi</a></h5>20 Agustus, 2022 
                     </div>
                   </li>
+                    <li class="media my-4">
+                      <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
+                      <div class="media-body">
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                      </div>
+                    </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">

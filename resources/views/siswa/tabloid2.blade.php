@@ -38,7 +38,7 @@
                         <!-- paragraf 1 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description"> 
-                          Merdeka, satu kata yang umumnya kita pahami dengan arti kebebasan. Proklamasi yang dikumandangkan oleh Ir.Soekarno pada tanggal 17 Agustus 1945 menandakan Indonesia telah merdeka, bebas dari penjajahan. Namun, setelah itu bukan berarti Indonesia benar-benar bebas dari ancaman pihak luar. Dalam buku Sejarah Nasional Indonesia Jilid 6 disebutkan, “Setelah proklamasi kemerdekaan, kedatangan pasukan sekutu terdapat serdadu Belanda dan NICA ( <i>Netherlands Indies Civil Administration</i> ) yang secara terang-terangan bertujuan mendirikan pemerintah Hindia-Belanda”. Ancaman tersebut tentunya tidak ditanggapi secara “santai” oleh bangsa kita. Maka dari itu jalan yang ditempuh adalah menyikapinya dengan cara diplomasi dan perang.
+                          Merdeka, satu kata yang umumnya kita pahami dengan arti kebebasan. Proklamasi yang dikumandangkan oleh Ir.Soekarno pada tanggal 17 Agustus 1945 menandakan Indonesia telah merdeka, bebas dari penjajahan. Namun, setelah itu bukan berarti Indonesia benar-benar bebas dari ancaman pihak luar. Dalam buku Sejarah Nasional Indonesia Jilid 6 disebutkan, “Setelah proklamasi kemerdekaan, kedatangan pasukan sekutu terdapat serdadu Belanda dan NICA (<i>Netherlands Indies Civil Administration</i>) yang secara terang-terangan bertujuan mendirikan pemerintah Hindia-Belanda”. Ancaman tersebut tentunya tidak ditanggapi secara “santai” oleh bangsa kita. Maka dari itu jalan yang ditempuh adalah menyikapinya dengan cara diplomasi dan perang.
                           </p>
                           
                         </div>
@@ -101,7 +101,7 @@
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <br>
                           <p style="margin-bottom: 0rem" class="description">
-                          Pasukan Brigade III tiba di Desa Karang Kedawung pada tanggal 7 Februari 1949. Keesokan harinya, pada tanggal 8 Februari 1949 Sroedji memberikan perintah kepada pasukan kawal brigade melakukan pengaturan pengamanan dan penempatan para pasukan untuk diarahkan pada lokasi ketinggian yang dianggap strategis. Namun perlu kalian ketahui, ternyata keberadaan Brigade III telah diketahui oleh Belanda. Letkol J. H .J. Brendgen selaku pemimpin Batalyon Infanteri XIII KNIL telah melakukan pengepungan di Desa Karang Kedawung. Di saat pasukan Brigade III menuju lokasi ketinggian yang telah direncanakan, tiba-tiba mereka diserang musuh. Kedatangan musuh berasal dari Kebun Lengkong, Desa Mumbulsari. Dengan penyerangan yang dilakukan oleh pasukan Belanda tersebut menandakan dimulainya Pertempuran Karang Kedawung. Pasukan Brigade III dengan semangat dan tekad yang kuat berjuang melawan pasukan Belanda.
+                          Pasukan Brigade III tiba di Desa Karang Kedawung pada tanggal 7 Februari 1949. Keesokan harinya, pada tanggal 8 Februari 1949 Sroedji memberikan perintah kepada pasukan kawal brigade melakukan pengaturan pengamanan dan penempatan para pasukan untuk diarahkan pada lokasi ketinggian yang dianggap strategis. Namun perlu kalian ketahui, ternyata keberadaan Brigade III telah diketahui oleh Belanda. Letkol J. H. J. Brendgen selaku pemimpin Batalyon Infanteri XIII KNIL telah melakukan pengepungan di Desa Karang Kedawung. Di saat pasukan Brigade III menuju lokasi ketinggian yang telah direncanakan, tiba-tiba mereka diserang musuh. Kedatangan musuh berasal dari Kebun Lengkong, Desa Mumbulsari. Dengan penyerangan yang dilakukan oleh pasukan Belanda tersebut menandakan dimulainya Pertempuran Karang Kedawung. Pasukan Brigade III dengan semangat dan tekad yang kuat berjuang melawan pasukan Belanda.
                           </p>
                         </div>
                         
@@ -120,8 +120,8 @@
                       <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/1b.jpg" class="img-fluid" alt="gambar" width="400">
-                        <p style="margin-bottom: 0rem;text-indent: 0"><i>Monumen Bambu Runcing di Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten Jember.  </i></p>
-                        <p style="text-indent: 0"> sumber: Kartomiharjo, Saptono, dan Soekarsono, 1986 </i></p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Monumen Bambu Runcing di Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten Jember.</p>
+                        <p style="text-indent: 0"> Sumber: Kartomiharjo, Saptono, dan Soekarsono, 1986 </i></p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                         
@@ -145,8 +145,8 @@
                       <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/2b.jpg" class="img-fluid" alt="gambar" width="300">
-                        <p style="margin-bottom: 0rem;text-indent: 0"><i>Patung Letkol. Sroedji dan dr. Soebandi di Jalan Gajah Mada, Kabupaten Jember  </i></p>
-                        <p style="text-indent: 0"> sumber: Dokumentasi Pribadi</p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Patung Letkol. Sroedji dan dr. Soebandi di Jalan Gajah Mada, Kabupaten Jember </p>
+                        <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi</p>
                       </div>
 
                       <!-- tombol next -->
@@ -243,14 +243,20 @@
                             <br>
                             <b><span>Buku :</span> </b>
                             <br/> - Cribb, R., & Kahin, A. 2012. <i>Kamus Sejarah Indonesia.</i> Depok: Komunitas Bambu.
-                            <br/> - Huda, A. I., & Hudi, S. 2012. <i>Pahlawan Jember</i> (E. N. Tjendani, Ed.). Jember: UIJ Kyai Mojo.
-                            <br/> - Jupriono, Ahmad, Z., & Purbandiyo, D. 2018. <i>Sekilas Wakil Rakyat dan Perkembangan Kabupaten Jember (Prasejarah s.d 1970-an).</i> Jember: Sekretariat DPRD Kabupaten Jember.
-                            <br/> - Nasution, A. H. (1979). <i>Sekitar Perang Kemerdekaan Indonesia Jilid 10.</i> Bandung: Disjarah AD dan Penerbit Angkasa.
-                            <br/> - Poesponegoro, M. D., & Nugroho, N. (Ed.). 2010. <i>Sejarah Nasional Indonesia, Zaman Jepang dan Zaman Republik.</i> Jakarta: Balai Pustaka.
+                            <br/> - Huda, A. I., & Hudi, S. 2012. <i>Pahlawan Jember</i> (E. N. Tjendani, Ed.). Jember: UIJ Kyai 
+                            <br/>&ensp;Mojo.
+                            <br/> - Jupriono, Ahmad, Z., & Purbandiyo, D. 2018. <i>Sekilas Wakil Rakyat dan 
+                            <br/>&ensp;Perkembangan Kabupaten Jember (Prasejarah s.d 1970-an).</i> Jember: 
+                            <br/>&ensp;Sekretariat DPRD Kabupaten Jember.
+                            <br/> - Nasution, A. H. (1979). <i>Sekitar Perang Kemerdekaan Indonesia Jilid 10.</i> Bandung: 
+                            <br/>&ensp;Disjarah AD dan Penerbit Angkasa.
+                            <br/> - Poesponegoro, M. D., & Nugroho, N. (Ed.). 2010. <i>Sejarah Nasional Indonesia, Zaman 
+                            <br/>&ensp;Jepang dan Zaman Republik.</i> Jakarta: Balai Pustaka.
                             <br>
                             <br>
                             <b><span>Artikel :</span> </b>
-                            <br/> - Widuatie, R. E. 2017. Karang kedawung 1949: Gugurnya Letnan Kolonel Mochammad Sroedji. <i>Patrawidya, 18</i>(2), 237–251.
+                            <br/> - Widuatie, R. E. 2017. Karang kedawung 1949: Gugurnya Letnan Kolonel 
+                            <br/>&ensp;Mochammad Sroedji. <i>Patrawidya, 18</i>(2), 237–251.
                             
                           </p>
                         </div>
@@ -336,6 +342,12 @@
                         <h5 class="mt-0 mb-1"><a href="/tabloid6">Sang Dokter Gugur di Pertempuran Karang Kedawung, Dr. Soebandi</a></h5>20 Agustus, 2022 
                     </div>
                   </li>
+                    <li class="media my-4">
+                      <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
+                      <div class="media-body">
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                      </div>
+                    </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">

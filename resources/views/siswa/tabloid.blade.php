@@ -43,16 +43,16 @@
                         
                       </div>
                       <!-- gambar -->
-                      <div style="text-align: center" class="col-lg-12 video-box" data-aos="fade-up" data-aos-delay="200">
+                      <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/foto artikel ke2/1.jpg" class="img-fluid" alt="gambar" width="500">
-                        <p style="margin-bottom: 0rem;text-indent: 0"><i>Pendudukan Ibukota RI (Yogyakarta) Oleh Tentara Belanda Pada Masa Agresi Militer II </i></p>
-                        <p style="text-indent: 0"> sumber: Westerhoven, 2011</i></p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Pendudukan Ibukota RI (Yogyakarta) Oleh Tentara Belanda Pada Masa Agresi Militer II </p>
+                        <p style="text-indent: 0"> Sumber: Westerhoven, 2011</i></p>
                         <!-- {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}} -->
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem;text-indent: 0" class="description"> <i>“Wingate action”</i> , mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut. Perlu kalian ketahui sebelum peristiwa Pertempuran Karang Kedawung, pasukan Brigade III/Damarwulan yang dipimpin oleh Sroedji melakukan <i>wingate</i> . Istilah <i>wingate</i> diambil dari nama seseorang yaitu Jenderal Orde Charles <i>wingate</i> dari Inggris. Ia berhasil melakukan penyusupan ke wilayah pertahanan musuh (Jepang) di Burma menggunakan taktik gerilya. Atas keberhasilannya mendorong A. H. Nasution (wakil panglima besar TNI) untuk menerapkan aksi <i>wingate</i> jika sewaktu-waktu Belanda melakukan agresi militer kembali. Gagasannya tertuang dalam Perintah Siasat No.1. </p>
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description"> <i>“Wingate action”</i>, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut. Perlu kalian ketahui sebelum peristiwa Pertempuran Karang Kedawung, pasukan Brigade III/Damarwulan yang dipimpin oleh Sroedji melakukan <i>wingate</i>. Istilah <i>wingate</i> diambil dari nama seseorang yaitu Jenderal Orde Charles <i>wingate</i> dari Inggris. Ia berhasil melakukan penyusupan ke wilayah pertahanan musuh (Jepang) di Burma menggunakan taktik gerilya. Atas keberhasilannya mendorong A. H. Nasution (wakil panglima besar TNI) untuk menerapkan aksi <i>wingate</i> jika sewaktu-waktu Belanda melakukan agresi militer kembali. Gagasannya tertuang dalam Perintah Siasat No.1. </p>
                           
                         </div>
                       </div>
@@ -69,10 +69,10 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">Agresi Militer Belanda II yang dimulai pada tanggal 19 Desember 1948 mendorong Jenderal Soedirman selaku Panglima Besar mengeluarkan Perintah Kilat Nomor I (Perintah Kilat No. 1/P.B/D/48) sebagai lanjutan dari Perintah Siasat Nomor I pada November 1948. Perintah tersebut ditujukan terhadap semua anggota APRI (Angkatan Perang Republik Indonesia) yang disampaikan oleh Kapten Soepardjo lewat RRI. Isi Perintah Kilat No. 1/P.B/D/48 yaitu:
-                            <br/> &emsp;1. Kita telah diserang.
-                            <br/> &emsp;2. Pada tanggal 19 Desember 1948 Angkatan Perang Belanda menyerang kota <br/>  &emsp;&emsp;Yogyakarta dan lapangan terbang Maguwo.
-                            <br/> &emsp;3. Pemerintah Belanda telah membatalkan gencatan senjata.
-                            <br/> &emsp;4. Semua Angkatan Perang menjalankan rencana yang telah ditetapkan untuk <br/> &emsp;&emsp;menghadapi Belanda.  
+                            <br/> 1. Kita telah diserang.
+                            <br/> 2. Pada tanggal 19 Desember 1948 Angkatan Perang Belanda menyerang kota <br/> &emsp;Yogyakarta dan lapangan terbang Maguwo.
+                            <br/> 3. Pemerintah Belanda telah membatalkan gencatan senjata.
+                            <br/> 4. Semua Angkatan Perang menjalankan rencana yang telah ditetapkan untuk <br/> &emsp;menghadapi Belanda.  
                           </p>
                         </div>
                       </div>
@@ -139,7 +139,7 @@
                         <!-- paragraf 3 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Ketika Brigade III beserta batalyonnya hampir tiba di garis demarkasi terjadi pemindahan lokasi formasi pasukan. Garda depan dilakukan oleh Batalyon 26, selanjutnya diikuti oleh Batalyon 25, staf Brigade III, dan pada barisan terakhir adalah Batalyon 27, serta Batalyon Depot. Mengingat saat lokasi markas setiap staf Brigade III dan batalyon-batalyonnya berjauhan, maka untuk menjaga komunikasi mereka menggunakan kurir. Sedangkan untuk menjaga komunikasi dengan Divisi I menggunakan radio. Pelaksanaan wingate dilakukan secara berangsur-angsur.
+                          Ketika Brigade III beserta batalyonnya hampir tiba di garis demarkasi terjadi pemindahan lokasi formasi pasukan. Garda depan dilakukan oleh Batalyon 26, selanjutnya diikuti oleh Batalyon 25, staf Brigade III, dan pada barisan terakhir adalah Batalyon 27, serta Batalyon Depot. Mengingat saat lokasi markas setiap staf Brigade III dan batalyon-batalyonnya berjauhan, maka untuk menjaga komunikasi mereka menggunakan kurir. Sedangkan untuk menjaga komunikasi dengan Divisi I menggunakan radio. Pelaksanaan <i>wingate</i> dilakukan secara berangsur-angsur.
                           </p>
                         </div>
                         
@@ -200,15 +200,15 @@
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
                           Selama melakukan gerakan <i>wingate</i> pasukan Brigade III/Damarwulan berjumpa dan berperang dengan Belanda dibeberapa lokasi. Adapun lokasi-lokasi yang dimaksud yaitu:
-                            <br/> &emsp;1.  Lodoyo, Brigade III.
-                            <br/> &emsp;2.	Tempursari. Batalyon yang bertugas pada pertempuran di Tempusari adalah 
-                            <br/> &emsp;&emsp;Batalyon 26 dan Batalyon 27. Tujuan mereka menyerang pasukan Belanda 
-                            <br/> &emsp;&emsp;di Tempusari untuk membuka jalan.
-                            <br/> &emsp;3.	Jarit (wilayah yang berlokasikan di bagian selatan Pasirian). Tujuan 
-                            <br/> &emsp;&emsp;penyerangan yang dilakukan oleh Batalyon 25 di Desa Jarit adalah 
-                            <br/> &emsp;&emsp;untuk menumpas markas Belanda di Candipuro.
-                            <br/> &emsp;4.	Karanglodi, pertempuran antara Batalyon 27 dengan Belanda.
-                            <br/> &emsp;5.	Gayasan dan Curahcabe, menjadi lokasi pertempuran Brigade III dan Belanda. 
+                            <br/> 1.  Lodoyo, Brigade III.
+                            <br/> 2.	Tempursari. Batalyon yang bertugas pada pertempuran di Tempusari adalah 
+                            <br/> &emsp;Batalyon 26 dan Batalyon 27. Tujuan mereka menyerang pasukan Belanda 
+                            <br/> &emsp;di Tempusari untuk membuka jalan.
+                            <br/> 3.	Jarit (wilayah yang berlokasikan di bagian selatan Pasirian). Tujuan 
+                            <br/> &emsp;penyerangan yang dilakukan oleh Batalyon 25 di Desa Jarit adalah 
+                            <br/> &emsp;untuk menumpas markas Belanda di Candipuro.
+                            <br/> 4.	Karanglodi, pertempuran antara Batalyon 27 dengan Belanda.
+                            <br/> 5.	Gayasan dan Curahcabe, menjadi lokasi pertempuran Brigade III dan Belanda. 
                           </p>
                         </div>
                         
@@ -256,15 +256,15 @@
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-top: 1rem; margin-bottom:-1rem;text-indent: 0" class="description">
                           Selanjutnya sebagai pelaksanaan dari Surat Perintah Siasat No. 1, komandan Brigade III/Damar Wulan, Sroedji melakukan alokasi penugasan untuk memimpin operasi militer di wilayah Jember-Banyuwangi. Adapun pembagiannya yaitu: 
-                            <br/> &emsp;1.	Komandan sub-teritorium Besuki dikomandoi oleh Letkol. Mochammad 
-                            <br/> &emsp;&emsp;Sroedji memimpin operasi militer di wilayah Jember-Banyuwangi. 
-                            <br/> &emsp;2.	Wakil komandan sub-eritorium Besuki dikomandoi oleh Mayor Imam Soekarto 
-                            <br/> &emsp;&emsp;memimpin operasi militer di wilayah Situbondo-Bondowoso.
-                            <br/> &emsp;3.	Letkol. dr. Soebandi diangkat sebagai residen militer dan bergabung 
-                            <br/> &emsp;&emsp;dengan Mayor Imam Soekarto.
-                            <br/> &emsp;4.	Pembubaran terhadap Batalyon Depot dan para anggotanya dialokasikan 
-                            <br/> &emsp;&emsp;ke setiap batalyon yang ada. Tujuannya adalah untuk memperkuat setiap 
-                            <br/> &emsp;&emsp;batalyon, dan dari ketiga batalyon diberikan tugas sebagai pertahanan rakyat.
+                            <br/> 1.	Komandan sub-teritorium Besuki dikomandoi oleh Letkol. Mochammad 
+                            <br/> &emsp;Sroedji memimpin operasi militer di wilayah Jember-Banyuwangi. 
+                            <br/> 2.	Wakil komandan sub-teritorium Besuki dikomandoi oleh Mayor Imam Soekarto 
+                            <br/> &emsp;memimpin operasi militer di wilayah Situbondo-Bondowoso.
+                            <br/> 3.	Letkol. dr. Soebandi diangkat sebagai residen militer dan bergabung 
+                            <br/> &emsp;dengan Mayor Imam Soekarto.
+                            <br/> 4.	Pembubaran terhadap Batalyon Depot dan para anggotanya dialokasikan 
+                            <br/> &emsp;ke setiap batalyon yang ada. Tujuannya adalah untuk memperkuat setiap 
+                            <br/> &emsp;batalyon, dan dari ketiga batalyon diberikan tugas sebagai pertahanan rakyat.
                           </p>
                         </div>
                         
@@ -285,8 +285,8 @@
                         <br>
                         <img  style="width: 300px;height: 550px;" src="assets/img/gambar/parit.jpeg" class="img-fluid" alt="gambar" >
                         <p style="text-indent: 0;">
-                          <i>Salah Satu Pejuang Gerilya, Memanfaatkan Semak-Semak dan Ilalang untuk Berteduh</i><br>
-                          <i>Sumber : Penerangan Angkatan Darat, 1957</i>
+                          Salah Satu Pejuang Gerilya, Memanfaatkan Semak-Semak dan Ilalang untuk Berteduh<br>
+                          Sumber : Penerangan Angkatan Darat, 1957
                         </p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
@@ -336,24 +336,34 @@
                           <b><span>Referensi :</span> </b>
                             <br>
                             <b><span>Buku :</span> </b>
-                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973</i>. Bandung: Dinas Sejarah TNI AD.
-                            <br/> - Idris, S. (Ed.). 2001. <i>Pejuang kemerdekaan Sumbar-Riau.</i> Jakarta: Yayasan Pembangunan Pejuang 1945 Sumatra Tengah.
-                            <br/> - Jupriono, Ahmad, Z., & Purbandiyo, D. 2018. <i>Sekilas Wakil Rakyat dan Perkembangan Kabupaten Jember (Prasejarah s.d 1970-an)</i>. Jember: Sekretariat DPRD Kabupaten Jember.
-                            <br/> - Moehkardi. 2019. <i>Akademi Militer Yogya dalam Perjuangan Fisik 1945 sampai dengan 1949</i>. Yogyakarta: Gadjah Mada University Press.
-                            <br/> - Nasution, A. H. 1979. <i>Sekitar Perang Kemerdekaan Indonesia Jilid 9</i>. Bandung : Disjarah AD dan Penerbit Angkasa.
-                            <br/> - Subdisjarah. 2001. <i>Peran TNI-AU Pada Masa Pemerintahan Darurat Republik Indonesia Tahun 1948 - 1949</i>. Jakarta: Subdisjarah.
+                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973</i>. Bandung: Dinas Sejarah
+                            <br/>&ensp;TNI AD.
+                            <br/> - Idris, S. (Ed.). 2001. <i>Pejuang kemerdekaan Sumbar-Riau.</i> Jakarta: Yayasan
+                            <br/>&ensp; Pembangunan Pejuang 1945 Sumatra Tengah.
+                            <br/> - Jupriono, Ahmad, Z., & Purbandiyo, D. 2018. <i>Sekilas Wakil Rakyat dan
+                            <br/>&ensp;Perkembangan Kabupaten Jember (Prasejarah s.d 1970-an)</i>. Jember: 
+                            <br/>&ensp;Sekretariat DPRD Kabupaten Jember.
+                            <br/> - Moehkardi. 2019. <i>Akademi Militer Yogya dalam Perjuangan Fisik 1945 sampai dengan
+                            <br/>&ensp;1949</i>. Yogyakarta: Gadjah Mada University Press.
+                            <br/> - Nasution, A. H. 1979. <i>Sekitar Perang Kemerdekaan Indonesia Jilid 9</i>. Bandung :
+                            <br/>&ensp;Disjarah AD dan Penerbit Angkasa.
+                            <br/> - Subdisjarah. 2001. <i>Peran TNI-AU Pada Masa Pemerintahan Darurat Republik
+                            <br/>&ensp;Indonesia Tahun 1948 - 1949</i>. Jakarta: Subdisjarah.
                             <br>
                             <br>
                             <b><span>Artikel :</span> </b>
-                            <br/> - Widuatie, R. E. 2017. Karang kedawung 1949: Gugurnya Letnan Kolonel Mochammad Sroedji. <i>Patrawidya, 18</i>(2), 237–251.
+                            <br/> - Widuatie, R. E. 2017. Karang kedawung 1949: Gugurnya Letnan Kolonel
+                            <br/>&ensp;Mochammad Sroedji. <i>Patrawidya, 18</i>(2), 237–251.
                             <br>
                             <br>
-                            <b><span>Makalah :</span> </b>
-                            <br/> - Penerangan Angkatan Darat. 1957. <i>Menembus Gunung Semeru</i>. Jakarta: Penerangan Angakatan Darat. Juli.
+                            <b><span>Majalah :</span> </b>
+                            <br/> - Penerangan Angkatan Darat. 1957. <i>Menembus Gunung Semeru</i>. Jakarta:
+                            <br/>&ensp;Penerangan Angakatan Darat. Juli.
                             <br>
                             <br>
                             <b><span>Gambar :</span> </b>
-                            <br/> - Westerhoven, L. V. 2011. <i>Vechten In Een Oorlog Die Zo Niet Mocht Worden Genoemd–Deel 2</i>, (Online), ( <a href="https://www.dutchdefencepress.com/" target="_blank">https://www.dutchdefencepress.com/</a> ), diakses 1 Juli 2022.
+                            <br/> - Westerhoven, L. V. 2011. <i>Vechten In Een Oorlog Die Zo Niet Mocht Worden Genoemd–
+                            <br/>&ensp;Deel 2</i>, (Online), ( <a href="https://www.dutchdefencepress.com/" target="_blank">https://www.dutchdefencepress.com/</a> ), diakses 1 Juli 2022.
                             
                           </p>
                         </div>
@@ -446,6 +456,12 @@
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/subandi2.jpeg" alt="Generic placeholder image">
                       <div class="media-body">
                           <h5 class="mt-0 mb-1"><a href="/tabloid6">Sang Dokter Gugur di Pertempuran Karang Kedawung, Dr. Soebandi</a></h5>20 Agustus, 2022 
+                      </div>
+                    </li>
+                    <li class="media my-4">
+                      <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
+                      <div class="media-body">
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
                       </div>
                     </li>
                     <li class="media">

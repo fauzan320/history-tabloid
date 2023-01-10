@@ -47,8 +47,8 @@
                       <div style="text-align: center" class="col-lg-10 video-box about-content" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/4.jpeg" class="img-fluid" alt="gambar" width="400">
-                        <p style="margin-bottom: 0rem;"><i>Moh. Hatta didampingi seorang perwira berjalan melintasi barisan TNI Tahun 1949 </i></p>
-                        <p style="text-indent: 0"> sumber: <i>IPPHOS ANRI</i></p>
+                        <p style="margin-bottom: 0rem;">Moh. Hatta Didampingi Deorang Perwira Berjalan Melintasi Barisan TNI Tahun 1949</p>
+                        <p style="text-indent: 0"> Sumber: IPPHOS ANRI</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
@@ -146,8 +146,8 @@
                         <br>
                         <img src="assets/img/gambar/atikel 3/2.jpg" class="img-fluid" alt="gambar"  width="400" >
                         <p style="text-indent: 0;">
-                          <i>A. H. Nasution (Kiri) dan Kolonel Soengkono (Kanan)</i><br>
-                          <i>Sumber : Nasution, 1966; Semdam VIII/Brawidjadja, 1968</i>
+                          A. H. Nasution (Kiri) dan Kolonel Soengkono (Kanan)<br>
+                          Sumber : Nasution, 1966; Semdam VIII/Brawidjadja, 1968
                         </p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
@@ -245,16 +245,23 @@
                           <b><span>Referensi :</span> </b>
                             <br>
                             <b><span>Buku :</span> </b>
-                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973</i>. Bandung: Dinas Sejarah TNI AD.
-                            <br/> - Nasution, A. H. 1966. <i>Sejarah Nasional Perjuangan di Bidang Bersenjata.</i> Jakarta : Mega Bookstore.
-                            <br/> - Penerangan Angkatan Darat. 1957. <i>Menembus Gunung Semeru.</i> Penerangan Angkatan Darat, Juli.
-                            <br/> - Poesponegoro, M. D., & Nugroho, N. (Ed.). 2010. <i>Sejarah Nasional Indonesia, Zaman Jepang dan Zaman Republik.</i> Jakarta: Balai Pustaka.
-                            <br/> - Proyek Penelitian dan Pencatatan Kebudayaan Daerah. 1978. <i>Sejarah Daerah Jawa Timur.</i> Jakarta: Departemen Pendidikan dan Kebudayaan.
-                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam VIII/Brawijaya.</i> Malang: Semdam VIII/Brawidjadja.
+                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973</i>. Bandung: Dinas Sejarah 
+                            <br/>&ensp;TNI AD.
+                            <br/> - Nasution, A. H. 1966. <i>Sejarah Nasional Perjuangan di Bidang Bersenjata.</i> Jakarta : 
+                            <br/>&ensp;Mega Bookstore.
+                            <br/> - Penerangan Angkatan Darat. 1957. <i>Menembus Gunung Semeru.</i> Penerangan 
+                            <br/>&ensp;Angkatan Darat, Juli.
+                            <br/> - Poesponegoro, M. D., & Nugroho, N. (Ed.). 2010. <i>Sejarah Nasional Indonesia, Zaman 
+                            <br/>&ensp;Jepang dan Zaman Republik.</i> Jakarta: Balai Pustaka.
+                            <br/> - Proyek Penelitian dan Pencatatan Kebudayaan Daerah. 1978. <i>Sejarah Daerah Jawa 
+                            <br/>&ensp;Timur.</i> Jakarta: Departemen Pendidikan dan Kebudayaan.
+                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam 
+                            <br/>&ensp;VIII/Brawijaya.</i> Malang: Semdam VIII/Brawidjadja.
                             <br>
                             <br>
                             <b><span>Gambar :</span> </b>
-                            <br/> - Ipphos Anri. 1949. <i>Moh. Hatta didampingi seorang perwira berjalan melintasi barisan TNI, (Online),</i> ( <a href="http://anri.sikn.go.id" target="_blank">anri.sikn.go.id</a> ), diakses 2 Juli 2022. 
+                            <br/> - Ipphos Anri. 1949. <i>Moh. Hatta didampingi seorang perwira berjalan melintasi barisan 
+                            <br/>&ensp;TNI, (Online),</i> ( <a href="http://anri.sikn.go.id" target="_blank">anri.sikn.go.id</a> ), diakses 2 Juli 2022. 
                             
                           </p>
                         </div>
@@ -343,6 +350,12 @@
                         <h5 class="mt-0 mb-1"><a href="/tabloid6">Sang Dokter Gugur di Pertempuran Karang Kedawung, Dr. Soebandi</a></h5>20 Agustus, 2022 
                     </div>
                   </li>
+                    <li class="media my-4">
+                      <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
+                      <div class="media-body">
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                      </div>
+                    </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">

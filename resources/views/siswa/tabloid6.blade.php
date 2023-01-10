@@ -47,7 +47,7 @@
                         <br>
                         <img  src="assets/img/gambar/subandi.jpeg" class="img-fluid" alt="gambar" width="300">
                         <p style="margin-bottom: 0rem;text-indent: 0">dr. Soebandi </p>
-                        <p style="text-indent: 0"> sumber: Suwarno, 2019</p>
+                        <p style="text-indent: 0"> Sumber: Suwarno, 2019</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
@@ -201,16 +201,16 @@
                       <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/subandi2.jpeg" class="img-fluid" alt="gambar" width="400">
-                        <p style="margin-bottom: 0rem;text-indent: 0"><i>Patung Sroedji dan Dr. Soebandi</i></p>
-                        <p style="text-indent: 0"> sumber: Dokumentasi Pribadi</p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Patung Sroedji dan dr. Soebandi</p>
+                        <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <!-- gambar -->
                       <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/makam subandi.jpg" class="img-fluid" alt="gambar" width="400">
-                        <p style="margin-bottom: 0rem;text-indent: 0"><i>Patung Sroedji dan Dr. Soebandi</i></p>
-                        <p style="text-indent: 0"> sumber: Dokumentasi Pribadi</p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Patung Sroedji dan dr. Soebandi</p>
+                        <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       
@@ -221,14 +221,18 @@
                           <b><span>Referensi :</span> </b>
                             <br>
                             <b><span>Buku :</span> </b>
-                            <br/> - Agusni, I. 2016. <i>Kiprah Dokter NIAS - Djakarta Ika Daigaku Dalam Sejarah Republik Indonesia.</i> Surabaya: Airlangga University Press.
+                            <br/> - Agusni, I. 2016. <i>Kiprah Dokter NIAS - Djakarta Ika Daigaku Dalam Sejarah Republik 
+                            <br/>&ensp;Indonesia.</i> Surabaya: Airlangga University Press.
                             <br/> - Hakim, R. Z. 2020. <i>Durahem</i>. Yogyakarta: Pinggir.
-                            <br/> - Huda, A. I., & Hudi, S. 2012. <i>Pahlawan Jember</i> (E. N. Tjendani, Ed.). Jember: UIJ Kyai Mojo.
-                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam VIII/Brawijaya</i>. Malang: Semdam VIII/Brawidjadja.
+                            <br/> - Huda, A. I., & Hudi, S. 2012. <i>Pahlawan Jember</i> (E. N. Tjendani, Ed.). Jember: UIJ Kyai 
+                            <br/>&ensp;Mojo.
+                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam 
+                            <br/>&ensp;VIII/Brawijaya</i>. Malang: Semdam VIII/Brawidjadja.
                             <br>
                             <br>
                             <b><span>Gambar :</span> </b>
-                            <br/> - Suwarno, P. 2019. <i>Mengenang 102 Tahun Letkol dr Soebandi: Sang Dokter Gerilyawan, (Online)</i>, (<a href="http://www.kabarjateng.co.id/" target="_blank">http://www.kabarjateng.co.id/</a>), diakses 27 Juli 2022.
+                            <br/> - Suwarno, P. 2019. <i>Mengenang 102 Tahun Letkol dr Soebandi: Sang Dokter Gerilyawan, 
+                            <br/>&ensp;(Online)</i>, (<a href="http://www.kabarjateng.co.id/" target="_blank">http://www.kabarjateng.co.id/</a>), diakses 27 Juli 2022.
                             
                           </p>
                         </div>
@@ -312,6 +316,12 @@
                     </div>
                         <i class='fa fa-arrow-circle-left' style='color: orange'></i>
                   </li>
+                    <li class="media my-4">
+                      <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
+                      <div class="media-body">
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                      </div>
+                    </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">

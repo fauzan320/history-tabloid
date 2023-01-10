@@ -74,6 +74,10 @@ class HomeController extends Controller
     {   
         return view('siswa/tabloid7');
     }
+    public function kesimpulan()
+    {   
+        return view('siswa/tabloid_kesimpulan');
+    }
     public function tabloidtest()
     {   
         return view('siswa/tabloidtest');

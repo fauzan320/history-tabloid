@@ -47,8 +47,8 @@
                       <div style="text-align: center; margin-top: -4rem; " class="col-lg-10 video-box about-content" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/foto artikel pertama/1a.jpg" class="img-fluid" alt="gambar" width="300">
-                        <p style="margin-bottom: 0rem;text-indent: 0">Dua Tentara Belanda di Penanda Garis Demarkasi ( <i>Status Quo</i> Van Mook) Prowulan, Dekat Mojokerto</p>
-                        <p style="text-indent: 0"> sumber: Nationaalarchief.nl, 1948</p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Dua Tentara Belanda di Penanda Garis Demarkasi (<i>Status Quo</i> Van Mook) Prowulan, Dekat Mojokerto</p>
+                        <p style="text-indent: 0"> Sumber: Nationaalarchief.nl, 1948</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
@@ -70,7 +70,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Selanjutnya permasalahan garis demarkasi mulai nampak dalam Perundingan Renville antara Republik Indonesia (RI) dengan Belanda di bawah pengawasan KTN (Komisi Tiga Negara). Delegasi RI dipimpin oleh Amir Sjarifuddin, Ali Sastroamijoyo sebagai wakil ketua, dan didampingi beberapa anggota. Sedangkan dari delegasi Belanda dipimpin oleh R. Abdul Kadir Widjojoatmojo, Mr. H. A. L. Vredenburgh sebagai wakil ketua, dan didampingi beberapa anggota.
+                          Selanjutnya permasalahan garis demarkasi mulai nampak dalam Perundingan <i>Renville</i> antara Republik Indonesia (RI) dengan Belanda di bawah pengawasan KTN (Komisi Tiga Negara). Delegasi RI dipimpin oleh Amir Sjarifuddin, Ali Sastroamijoyo sebagai wakil ketua, dan didampingi beberapa anggota. Sedangkan dari delegasi Belanda dipimpin oleh R. Abdul Kadir Widjojoatmojo, Mr. H. A. L. Vredenburgh sebagai wakil ketua, dan didampingi beberapa anggota.
                           </p>
                         </div>
                       </div>
@@ -118,7 +118,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Perundingan mulai dilaksanakan pada tanggal 8 Desember 1947 di atas Kapal <i>Renville</i>. Awal pembahasan perundingan tersebut adalah penetapan garis demarkasi. Belanda saat itu mendesak agar garis demarkasi yang digunakan adalah garis yang digagaskan oleh Van Mook (juga dikenal dengan nama garis <i>status quo</i> ) pada tanggal 29 Agustus 1947. Dilain pihak RI menyetujui garis demarkasi DK (Dewan Keamanan) PBB yang telah ditetapkan pada tanggal 4 November 1947.
+                          Perundingan mulai dilaksanakan pada tanggal 8 Desember 1947 di atas Kapal <i>Renville</i>. Awal pembahasan perundingan tersebut adalah penetapan garis demarkasi. Belanda saat itu mendesak agar garis demarkasi yang digunakan adalah garis yang digagaskan oleh Van Mook (juga dikenal dengan nama garis <i>status quo</i>) pada tanggal 29 Agustus 1947. Dilain pihak RI menyetujui garis demarkasi DK (Dewan Keamanan) PBB yang telah ditetapkan pada tanggal 4 November 1947.
                           </p>
                         </div>
                       </div>
@@ -151,7 +151,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Pada tanggal 17 Januari 1948 dua delegasi yaitu RI dan Belanda menandatangani Perundingan <i>Renville</i>  yang berisikan persetujuan dasar perundingan politik dan <i>truce</i>. Garis demarkasi ditetapkan sesuai dengan pernyataan Van Mook. Garis tersebut memisahkan daerah-daerah yang dikuasai oleh kedua belah pihak oleh pasukan militer dan masing-masing diantaranya tidak boleh melintasi garis tersebut. Selain itu, daerah-daerah disekitar garis demarkasi dilakukan <i>demiliterisasi</i> (mengosongkan suatu wilayah dari kehadiran atau kelompok militer sebagai penerapan persetujuan pihak-pihak yang terlibat konflik). 
+                          Pada tanggal 17 Januari 1948 dua delegasi yaitu RI dan Belanda menandatangani Perundingan <i>Renville</i>  yang berisikan persetujuan dasar perundingan politik dan <i>truce</i>. Garis demarkasi ditetapkan sesuai dengan pernyataan Van Mook. Garis tersebut memisahkan daerah-daerah yang dikuasai oleh kedua belah pihak oleh pasukan militer dan masing-masing diantaranya tidak boleh melintasi garis tersebut. Selain itu, daerah-daerah disekitar garis demarkasi dilakukan demiliterisasi (mengosongkan suatu wilayah dari kehadiran atau kelompok militer sebagai penerapan persetujuan pihak-pihak yang terlibat konflik). 
                           </p>
                         </div>
                       </div>
@@ -160,7 +160,7 @@
                         <br>
                         <img  src="assets/img/gambar/foto artikel pertama/2.jpg" class="img-fluid" alt="gambar" width="400">
                         <p style="margin-bottom: 0rem;text-indent: 0">Peta Wilayah Kekuasaan RI (Ditandai dengan Garis) dan Belanda (Berwarna Hitam) dalam Perundingan <i>Renville</i> </p>
-                        <p style="text-indent: 0"> sumber: Nasution, 1966</p>
+                        <p style="text-indent: 0"> Sumber: Nasution, 1966</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <!-- tombol next -->
@@ -199,8 +199,8 @@
                       <div style="text-align: center; margin-top: -4rem; " class="col-lg-10 video-box about-content" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/foto artikel pertama/3.png" class="img-fluid" alt="gambar" width="600">
-                        <p style="margin-bottom: 0rem;text-indent: 0">Wilayah Kekuasaan RI (Berwarna Putih) dan Belanda (Berwarna Hijau) di Jawa Pasca Perundingan<i>Renville</i> </p>
-                        <p style="text-indent: 0"> sumber: Westerhoven, 2011</p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Wilayah Kekuasaan RI (Berwarna Putih) dan Belanda (Berwarna Hijau) di Jawa Pasca Perundingan <i>Renville</i> </p>
+                        <p style="text-indent: 0"> Sumber: Westerhoven, 2011</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <!-- gambar 4-->
@@ -208,7 +208,7 @@
                         <br>
                         <img  src="assets/img/gambar/foto artikel pertama/4.jpg" class="img-fluid" alt="gambar" width="500">
                         <p style="margin-bottom: 0rem;text-indent: 0">Garis Demarkasi (Berwarna Merah) di Jawa Timur</p>
-                        <p style="text-indent: 0"> sumber: Helloindonesie, 2014</p>
+                        <p style="text-indent: 0"> Sumber: Helloindonesie, 2014</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
                       <!-- paragraf 2 -->
@@ -266,21 +266,35 @@
                             <b><span>Referensi :</span> </b>
                             <br>
                             <b><span>Buku :</span> </b>
-                            <br/> - Ashari, K. 2020. <i>Kamus Hubungan Internasional dan Diplomasi.</i> Jakarta: PT. Gramedia Pustaka Utama.
-                            <br/> - Departemen Perhubungan Direktorat-Jenderal Pos dan Telekomunikasi. 1980. <i>Sejarah Pos dan Telekomunikasi di Indonesia Jilid I Masa Pra Republik.</i> Jakarta: Departemen Perhubungan Direktorat-Jenderal Pos dan Telekomunikasi.
-                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973.</i> Bandung: Dinas Sejarah TNI AD.
-                            <br/> - Imron, A., Zed, M., Paeni, M., Abdullah, T., & Lapian, A. B. 2012. <i>Indonesia dalam arus sejarah : Jilid 6 (Perang dan Revolusi).</i> Jakarta: Ichtiar Baru Van Houve dan KEMENDIKBUD RI.
-                            <br/> - Muljana, S. 2008. <i>Kesadaran Nasional dari Kolonialisme sampai Kemerdekaan.</i> Yogyakarta: LKIS Yogyakarta.
-                            <br/> - Nasution, A. H. 1966. <i>Sejarah Nasional Perjuangan di Bidang Bersenjata.</i> Jakarta : Mega Bookstore.
-                            <br/> - Poesponegoro, M. D., & Nugroho, N. (Ed.). 2010. <i>Sejarah Nasional Indonesia, Zaman Jepang dan Zaman Republik.</i> Jakarta: Balai Pustaka.
-                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam VIII/Brawijaya.</i> Malang: Semdam VIII/Brawidjadja.
-                            <br/> - Tobing, K. M. L. 1986. <i>Perjuangan politik bangsa Indonesia: Renville.</i> Jakarta: Gunung Agung.
+                            <br/> - Ashari, K. 2020. <i>Kamus Hubungan Internasional dan Diplomasi.</i> Jakarta: PT. 
+                            <br/>&ensp;Gramedia Pustaka Utama.
+                            <br/> - Departemen Perhubungan Direktorat-Jenderal Pos dan Telekomunikasi. 1980.
+                            <br/>&ensp; <i>Sejarah Pos dan Telekomunikasi di Indonesia Jilid I Masa Pra Republik.</i> Jakarta:
+                            <br/>&ensp; Departemen Perhubungan Direktorat-Jenderal Pos dan Telekomunikasi.
+                            <br/> - Dinas Sejarah TNI AD. 1982. <i>Sejarah TNI-AD 1945-1973.</i> Bandung: Dinas Sejarah
+                            <br/>&ensp; TNI AD.
+                            <br/> - Imron, A., Zed, M., Paeni, M., Abdullah, T., & Lapian, A. B. 2012. <i>Indonesia dalam
+                            <br/>&ensp; arus sejarah : Jilid 6 (Perang dan Revolusi).</i> Jakarta: Ichtiar Baru Van Houve dan
+                            <br/>&ensp; KEMENDIKBUD RI.
+                            <br/> - Muljana, S. 2008. <i>Kesadaran Nasional dari Kolonialisme sampai Kemerdekaan.</i>
+                            <br/>&ensp; Yogyakarta: LKIS Yogyakarta.
+                            <br/> - Nasution, A. H. 1966. <i>Sejarah Nasional Perjuangan di Bidang Bersenjata.</i> Jakarta :
+                            <br/>&ensp; Mega Bookstore.
+                            <br/> - Poesponegoro, M. D., & Nugroho, N. (Ed.). 2010. <i>Sejarah Nasional Indonesia, Zaman
+                            <br/>&ensp; Jepang dan Zaman Republik.</i> Jakarta: Balai Pustaka.
+                            <br/> - Semdam VIII/Brawidjadja. 1968. <i>Sam Karya Bhirawa Anoraga, Sejarah Militer Kodam
+                            <br/>&ensp; VIII/Brawijaya.</i> Malang: Semdam VIII/Brawidjadja.
+                            <br/> - Tobing, K. M. L. 1986. <i>Perjuangan politik bangsa Indonesia: Renville.</i> Jakarta: Gunung
+                            <br/>&ensp; Agung.
                             <br>
                             <br>
                             <b><span>Gambar :</span> </b>
-                            <br/> - Helloindonesie. 2014. <i>Operatiee Kraai, (Online)</i>, (<a href="http://helloindonesie.wordpress.com" target="_blank">helloindonesie.wordpress.com</a>), diakses 30 Juni 2022.
-                            <br/> - Nationaalarchief.nl. 1948. <i> Prowoelan Nabij Modjokerto Status-Quo Lijn, (Online)</i> , (<a href="http://nationaalarchief.nl/onderzoeken" target="_blank">nationaalarchief.nl/onderzoeken</a> ), diakses 30 Juni 2022. 
-                            <br/> - Westerhoven, L. V. 2011. <i>Vechten In Een Oorlog Die Zo Niet Mocht Worden Genoemd-Deel 2, (Online)</i>, (<a href="http://dutchdefencepress.com"target="_blank">dutchdefencepress.com</a>), diakses 30 Juni 2022.
+                            <br/> - Helloindonesie. 2014. <i>Operatiee Kraai, (Online)</i>, (<a href="http://helloindonesie.wordpress.com" target="_blank">helloindonesie.wordpress.com</a>),
+                            <br/>&ensp; diakses 30 Juni 2022.
+                            <br/> - Nationaalarchief.nl. 1948. <i> Prowoelan Nabij Modjokerto Status-Quo Lijn, (Online)</i> ,
+                            <br/>&ensp; (<a href="http://nationaalarchief.nl/onderzoeken" target="_blank">nationaalarchief.nl/onderzoeken</a> ), diakses 30 Juni 2022. 
+                            <br/> - Westerhoven, L. V. 2011. <i>Vechten In Een Oorlog Die Zo Niet Mocht Worden Genoemd-
+                            <br/>&ensp;Deel 2, (Online)</i>, (<a href="http://dutchdefencepress.com"target="_blank">dutchdefencepress.com</a>), diakses 30 Juni 2022.
                             
                           </p>
                         </div>
@@ -374,6 +388,12 @@
                         <h5 class="mt-0 mb-1"><a href="/tabloid6">Sang Dokter Gugur di Pertempuran Karang Kedawung, Dr. Soebandi</a></h5>20 Agustus, 2022 
                     </div>
                   </li>
+                    <li class="media my-4">
+                      <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
+                      <div class="media-body">
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                      </div>
+                    </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">

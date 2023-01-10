@@ -31,6 +31,7 @@ Route::get('tabloid4', [App\Http\Controllers\HomeController::class, 'tabloid4'])
 Route::get('tabloid5', [App\Http\Controllers\HomeController::class, 'tabloid5'])->name('tabloid5');
 Route::get('tabloid6', [App\Http\Controllers\HomeController::class, 'tabloid6'])->name('tabloid6');
 Route::get('tabloid7', [App\Http\Controllers\HomeController::class, 'tabloid7'])->name('tabloid7');
+Route::get('kesimpulan', [App\Http\Controllers\HomeController::class, 'kesimpulan'])->name('kesimpulan');
 Route::get('tabloidtest', [App\Http\Controllers\HomeController::class, 'tabloidtest'])->name('tabloidtest');
 Route::post('post', [App\Http\Controllers\HomeController::class, 'post'])->name('post');
 

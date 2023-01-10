@@ -75,7 +75,7 @@
                 {{-- <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2> --}}
                 <p class="animate__animated animate__fadeInUp">Tabloid ini bertujuan agar kalian bisa mengetahui
                   dan memahami latar belakang hingga kronologi Pertempuran Karang Kedawung. Selain itu 
-                diharapkan kalian mengenal tokoh utama dibalik pertempuran ini.</p>
+                diharapkan kalian mengenal tokoh utama di balik pertempuran ini.</p>
                 <a href="#blog_section" style="background-color:orangered; border-color:orangered " class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
               </div>
             </div>
@@ -150,7 +150,7 @@
                                       <li><i class="icon ion-md-person"></i>Zahira</li>
                                       <li><i class="icon ion-md-calendar"></i>9 Juli 2022</li>
                                   </ul>
-                                  <p style="text-indent: 0" >“Wingate action”, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut...</p>
+                                  <p style="text-indent: 0" >Mungkin beberapa khalayak masih belum mengetahui tentang garis demarkasi. Lantas sejak kapan istilah...</p>
                                   <a href="/tabloid7">Read More<i class="icofont-long-arrow-right"></i></a>
                               </div>
                           </div> 
@@ -263,6 +263,24 @@
                           </div>
 
                           <div class="blog_item"data-aos="fade-up" data-aos-delay="300">
+                            <div class="blog_image">
+                                <img class="img-fluid" src="assets/img/gambar/cropkesimpulan.png" alt="images not found">
+                                <span><i class="icon ion-md-create"></i></span>
+                            </div>
+                            <div class="blog_details">
+                                <div class="blog_title">
+                                    <h5><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>
+                                </div>
+                                <ul>
+                                  <li><i class="icon ion-md-person"></i>Zahira</li>
+                                  <li><i class="icon ion-md-calendar"></i>21 Agustus 2022</li>
+                                </ul>
+                                <p style="text-indent: 0">Pertempuran Karang Kedawung terjadi pada tahun 1949 di Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten...</p>
+                                <a href="/kesimpulan">Read More<i class="icofont-long-arrow-right"></i></a>
+                            </div>
+                          </div>
+
+                          <div class="blog_item"data-aos="fade-up" data-aos-delay="300">
                               <div class="blog_image">
                                   <img class="img-fluid" src="assets/img/gambar/3.jpeg" alt="images not found">
                                   <span><i class="icon ion-md-create"></i></span>
@@ -288,7 +306,7 @@
             <section style="margin-top: -7rem;" class="blog_section" id="blog_section">
               <div class="container"data-aos="fade-up" data-aos-delay="100" >
                   <div class="blog_content">
-                    <h3 style="-webkit-text-fill-color: rgb(248, 109, 59)">Salam Berita</h3> <hr>
+                    <h3 style="-webkit-text-fill-color: rgb(248, 109, 59)">Salam Redaksi</h3> <hr>
                     <div class="row no-gutters">
                       
                       <div  class="col-lg-10 d-flex flex-column justify-content-center about-content">
@@ -314,7 +332,7 @@
                       <!-- paragraf 3 -->
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Terdapat beberapa artikel digital (online) yang telah membahas tentang Pertempuran Karang Kedawung 1949 beserta peristiwa yang berkaitan dengan alamat website terpisah. Namun, pada edisi kali ini redaksi berusaha mengemas susunan-susunan peristiwa tersebut menjadi artikel-artikel dalam satu edisi dan tidak terpisahkan. Sehingga informasi yang disajikan secara berurutan, menggunakan bahasa yang sederhana, memudahkan para pembaca untuk memahaminya, dan terdapat beberapa gambar pendukung dalam setiap artikel.</p>
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Terdapat beberapa artikel digital (<i>online</i>) yang telah membahas tentang Pertempuran Karang Kedawung 1949 beserta peristiwa yang berkaitan dengan alamat <i>website</i> terpisah. Namun, pada edisi kali ini redaksi berusaha mengemas susunan-susunan peristiwa tersebut menjadi artikel-artikel dalam satu edisi dan tidak terpisahkan. Sehingga informasi yang disajikan secara berurutan, menggunakan bahasa yang sederhana, memudahkan para pembaca untuk memahaminya, dan terdapat beberapa gambar pendukung dalam setiap artikel.</p>
                           <br>
                         </div>
                       </div>
@@ -418,26 +436,22 @@
             <!--/col-->
             <div class="mb40">
                 <h4 class="sidebar-title">Info Untuk Kalian</h4>
+                <hr>
                 <ul class="list-unstyled categories">
-                  <li class="active"><a>Sejarah Nasional</a>
-                    <ul class="list-unstyled">
-                      <li>
-                        <a >
-                          Sejarah nasional adalah sejarah yang kajian sejarahnya menyoroti kejadian-kejadian bersifat nasional. 
-                        </a>
-                      </li>
-                    </ul>
-                </li>
-                    <li class="active"><a>Sejarah Lokal</a>
-                        <ul class="list-unstyled">
-                          <li>
-                            <a >
-                            Sejarah lokal merupakan kumpulan peristiwa yang terjadi pada lokasi yang kecil, desa atau kota kecil pada umumnya, tidak menarik perhatian karena tidak mempunyai dampak luas.
-                            </a>
-                          </li>
-                        </ul>
-                    </li>
-                    
+                    <b>
+                      <p>
+                        Sejarah Nasional <br/>
+                        
+                      </p>
+                    </b>
+                    <p>Sejarah nasional adalah sejarah yang kajian sejarahnya menyoroti kejadian-kejadian bersifat nasional. </p>
+                    <b>
+                      <p>
+                        Sejarah Lokal <br/>
+                        
+                      </p>
+                    </b>
+                    <p>Sejarah lokal merupakan kumpulan peristiwa yang terjadi pada lokasi yang kecil, desa atau kota kecil pada umumnya, tidak menarik perhatian karena tidak mempunyai dampak luas.</p>
                 </ul>
             </div>
             <!--/col-->
