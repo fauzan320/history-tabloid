@@ -251,7 +251,7 @@
                                   @if (Auth::user()->nilai == null)
                                      <a class="dropdown-item"  href="#"> Belum melakukan <br/> Uji Pemahaman</a>
                                   @else
-                                     <a class="dropdown-item" href="#"> Nilai Uji <br/> Pemahaman = <b> {{ Auth::user()->nilai }}</b> </a> 
+                                     <a class="dropdown-item" href="#"> Nilai Uji <br/> Pemahaman = <b>Auth::user()->nilai}}</b> </a> 
                                   @endif
                                    
                                   <a class="dropdown-item" href="{{ route('logout') }}"

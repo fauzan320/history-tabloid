@@ -60,7 +60,11 @@ class siswa_controller extends Controller
      */
     public function edit($id)
     {
-        //
+        // mengambil data soal berdasarkan id yang dipilih
+        $editsiswa = DB::table('users')->where('id',$id)->first();
+        // passing data soal yang didapat ke view edit.blade.php
+        return view('admin/editing_siswa/edit',['editsiswa' => $editsiswa]);
+        // dd($editsoal);
     }
 
     /**
@@ -72,7 +76,16 @@ class siswa_controller extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        DB::table('users')->where('id',$id)->update([
+            'name' => $request->nama,
+            'kelas' => $request->kelas,
+            'nilai' => $request->nilai,
+            
+        ]);
+        // Alert::success('Berhasil', 'Successfully sukses merubah no.',$id);
+        // alert()->success('Berhasil', 'Successfully sukses merubah no.',$id);
+        return  redirect('/siswa');
+        // dd($request);
     }
 
     /**

@@ -52,7 +52,7 @@
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem;text-indent: 0" class="description"> <i>“Wingate action”</i>, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut. Perlu kalian ketahui sebelum peristiwa Pertempuran Karang Kedawung, pasukan Brigade III/Damarwulan yang dipimpin oleh Sroedji melakukan <i>wingate</i>. Istilah <i>wingate</i> diambil dari nama seseorang yaitu Jenderal Orde Charles <i>wingate</i> dari Inggris. Ia berhasil melakukan penyusupan ke wilayah pertahanan musuh (Jepang) di Burma menggunakan taktik gerilya. Atas keberhasilannya mendorong A. H. Nasution (wakil panglima besar TNI) untuk menerapkan aksi <i>wingate</i> jika sewaktu-waktu Belanda melakukan agresi militer kembali. Gagasannya tertuang dalam Perintah Siasat No.1. </p>
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description"> <i>“Wingate action”</i>, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut. Perlu kalian ketahui sebelum peristiwa Pertempuran Karang Kedawung, pasukan Brigade III/Damarwulan yang dipimpin oleh Sroedji melakukan <i>wingate</i>. Istilah <i>wingate</i> diambil dari nama seseorang yaitu Jenderal Orde Charles Wingate dari Inggris. Jenderal Orde Charles Wingate berhasil melakukan penyusupan ke wilayah pertahanan musuh (Jepang) di Burma menggunakan taktik gerilya. Atas keberhasilannya mendorong A. H. Nasution (wakil panglima besar TNI) untuk menerapkan aksi <i>wingate</i> jika sewaktu-waktu Belanda melakukan agresi militer kembali. Gagasannya tertuang dalam Perintah Siasat Nomor 1. </p>
                           
                         </div>
                       </div>
@@ -68,9 +68,9 @@
                       <!-- paragraf 3 -->
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Agresi Militer Belanda II yang dimulai pada tanggal 19 Desember 1948 mendorong Jenderal Soedirman selaku Panglima Besar mengeluarkan Perintah Kilat Nomor I (Perintah Kilat No. 1/P.B/D/48) sebagai lanjutan dari Perintah Siasat Nomor I pada November 1948. Perintah tersebut ditujukan terhadap semua anggota APRI (Angkatan Perang Republik Indonesia) yang disampaikan oleh Kapten Soepardjo lewat RRI. Isi Perintah Kilat No. 1/P.B/D/48 yaitu:
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Agresi Militer Belanda II yang dimulai pada tanggal 19 Desember 1948 mendorong Jenderal Soedirman selaku Panglima Besar mengeluarkan Perintah Kilat Nomor 1 (Perintah Kilat No. 1/P.B/D/48) sebagai lanjutan dari Perintah Siasat Nomor 1 pada November 1948. Perintah tersebut ditujukan terhadap semua anggota APRI (Angkatan Perang Republik Indonesia) yang disampaikan oleh Kapten Soepardjo lewat RRI. Isi Perintah Kilat No. 1/P.B/D/48 yaitu:
                             <br/> 1. Kita telah diserang.
-                            <br/> 2. Pada tanggal 19 Desember 1948 Angkatan Perang Belanda menyerang kota <br/> &emsp;Yogyakarta dan lapangan terbang Maguwo.
+                            <br/> 2. Pada tanggal 19 Desember 1948 Angkatan Perang Belanda menyerang kota <br/> &emsp;Yogyakarta dan Lapangan Terbang Maguwo.
                             <br/> 3. Pemerintah Belanda telah membatalkan gencatan senjata.
                             <br/> 4. Semua Angkatan Perang menjalankan rencana yang telah ditetapkan untuk <br/> &emsp;menghadapi Belanda.  
                           </p>
@@ -113,7 +113,7 @@
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <br>
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Sementara itu sebagai kelanjutan Perintah Kilat No. I Kolonel Soengkono selaku pemimpin Divisi I wilayah Jawa Timur memberikan perintah kepada Brigade III/Damarwulan untuk melakukan <i>wingate</i> kembali ke Besuki. Mereka bersedia kembali ke wilayah Besuki sebagai tempat asal Brigade III sebelum hijrah. <i>Wingate</i>  dilaksanakan dengan jalan kaki <i>(longmarch)</i> dengan jarak diperkirakan 500 km melalui jalur Kediri-Besuki. 
+                          Sementara itu sebagai kelanjutan Perintah Kilat Nomor 1 Kolonel Soengkono selaku pemimpin Divisi I wilayah Jawa Timur memberikan perintah kepada Brigade III/Damarwulan untuk melakukan <i>wingate</i> kembali ke Besuki. Mereka bersedia kembali ke wilayah Besuki sebagai tempat asal Brigade III sebelum hijrah. <i>Wingate</i>  dilaksanakan dengan jalan kaki <i>(longmarch)</i> dengan jarak diperkirakan 500 km melalui jalur Kediri-Besuki. 
                           </p>
                         </div>
                         
@@ -217,7 +217,7 @@
                        <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Perlu kalian ketahui. Sebelum pasukan Brigade III/Damarwulan tiba di Desa Bodong dan melakukan penyerangan di Desa Jarit oleh Batalyon 25, mereka singgah di Desa Penanggal, yang kemudian dijadikan sebagai <i>rendezvous point</i> (tempat berkumpul) pasukan mereka Alasan pasukan Brigade III menjadikan Desa Penanggal sebagai <i>rendezvous point</i> karena kondisi di Desa Penanggal cukup makmur dan masyarakatnya mendukung Republik, sehingga pasukan Brigade III mendapatkan suguhan makanan dan tambahan logistik dari  masyarakat setempat. 
+                          Perlu kalian ketahui. Sebelum pasukan Brigade III/Damarwulan tiba di Desa Bodong dan melakukan penyerangan di Desa Jarit oleh Batalyon 25, mereka singgah di Desa Penanggal, yang kemudian dijadikan sebagai <i>rendezvous point</i> (tempat berkumpul) pasukan mereka. Alasan pasukan Brigade III menjadikan Desa Penanggal sebagai <i>rendezvous point</i> karena kondisi di Desa Penanggal cukup makmur dan masyarakatnya mendukung Republik, sehingga pasukan Brigade III mendapatkan suguhan makanan dan tambahan logistik dari  masyarakat setempat. 
                           </p>
                         </div>
                       </div>
@@ -255,7 +255,7 @@
                         <!-- paragraf 1 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-top: 1rem; margin-bottom:-1rem;text-indent: 0" class="description">
-                          Selanjutnya sebagai pelaksanaan dari Surat Perintah Siasat No. 1, komandan Brigade III/Damar Wulan, Sroedji melakukan alokasi penugasan untuk memimpin operasi militer di wilayah Jember-Banyuwangi. Adapun pembagiannya yaitu: 
+                          Selanjutnya sebagai pelaksanaan dari Surat Perintah Siasat No. 1, komandan Brigade III/Damarwulan, Sroedji melakukan alokasi penugasan untuk memimpin operasi militer di wilayah Jember-Banyuwangi. Adapun pembagiannya yaitu: 
                             <br/> 1.	Komandan sub-teritorium Besuki dikomandoi oleh Letkol. Mochammad 
                             <br/> &emsp;Sroedji memimpin operasi militer di wilayah Jember-Banyuwangi. 
                             <br/> 2.	Wakil komandan sub-teritorium Besuki dikomandoi oleh Mayor Imam Soekarto 
@@ -363,7 +363,7 @@
                             <br>
                             <b><span>Gambar :</span> </b>
                             <br/> - Westerhoven, L. V. 2011. <i>Vechten In Een Oorlog Die Zo Niet Mocht Worden Genoemd–
-                            <br/>&ensp;Deel 2</i>, (Online), ( <a href="https://www.dutchdefencepress.com/" target="_blank">https://www.dutchdefencepress.com/</a> ), diakses 1 Juli 2022.
+                            <br/>&ensp;Deel 2</i>, (Online), (<a href="https://www.dutchdefencepress.com/" target="_blank">https://www.dutchdefencepress.com/</a>), diakses 1 Juli 2022.
                             
                           </p>
                         </div>
@@ -461,13 +461,13 @@
                     <li class="media my-4">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>27 Agustus, 2022 
                       </div>
                     </li>
                     <li class="media">
                         <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                         <div class="media-body">
-                            <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 27 Agustus, 2022
+                            <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 3 September, 2022
                         </div>
                     </li>
                 </ul>

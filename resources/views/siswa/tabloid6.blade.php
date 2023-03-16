@@ -61,7 +61,7 @@
                       <!-- paragraf 2 -->
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Sebelum mengetahui alasan beliau bisa ikut dalam berperang bersama Sroedji di Karang Kedawung, yuk kita mengenalnya terlebih dahulu. 
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Sebelum mengetahui alasan dr. Soebandi bisa ikut dalam berperang bersama Sroedji di Karang Kedawung, yuk kita mengenalnya terlebih dahulu. 
                             </p>
                         </div>
                       </div>
@@ -70,7 +70,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Raden Mas Soebandi, lahir di Klakah pada tanggal 17 Agustus 1917 dari pasangan Raden Soeradi Wiknyosukarto dan Mariam. Ayah Soebandi berprofersi sebagai kepala stasiun kereta api (<i>Nederlandsh Indische Spoorweg Maatschappy</i>) di Klakah. Istri Soebandi bernama Raden Roro Soekesi dan dikaruniai tiga anak yaituWidiyasmani, Widiyastuti, dan Widorini.
+                          Raden Mas Soebandi, lahir di Klakah pada tanggal 17 Agustus 1917 dari pasangan Raden Soeradi Wiknyosukarto dan Mariam. Ayah Soebandi berprofersi sebagai kepala stasiun kereta api (<i>Nederlandsh Indische Spoorweg Maatschappy</i>) di Klakah. Istri Soebandi bernama Raden Roro Soekesi dan dikaruniai tiga anak yaitu Widiyasmani, Widiyastuti, dan Widorini.
                           </p>
                         </div>
                       </div>
@@ -136,7 +136,7 @@
                         <!-- paragraf 3 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Dr. Soebandi mulai mendapatkan tugas di Jember sebagai kepala berpangkat letnan kolonel di Rumah Sakit DKT pada tahun 1946. Selama berdinas di DKT beliau pernah kepergok menolong seorang tentara dari TKR, sehingga mengakibatkan dr. Soebandi ditahan oleh tentara Belanda. Setelah itu, dr. Soebandi ikut serta melakukan gerilya di pertahanan Surabaya Selatan, Sidoarjo, Tulangan, Porong, Bangil, bahkan hingga Bekasi.
+                          Dr. Soebandi mulai mendapatkan tugas di Jember sebagai kepala berpangkat letnan kolonel di Rumah Sakit DKT pada tahun 1946. Selama berdinas di DKT dr. Soebandi pernah kepergok menolong seorang tentara dari TKR, sehingga mengakibatkannya ditahan oleh tentara Belanda. Setelah itu, dr. Soebandi ikut serta melakukan gerilya di pertahanan Surabaya Selatan, Sidoarjo, Tulangan, Porong, Bangil, bahkan hingga Bekasi.
                           </p>
                         </div>
                         
@@ -193,7 +193,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Jenazah dr. Soebandi kemudian ditemukan ditepi sawah di Dusun Plalangan, Desa Karang Kedawung. Saat ditemukan jenazah beliau dibawa ke DKT untuk disemayamkan. Tanggal 26 Maret 1950 dr. Soebandi kembali disemayamkan di TMP Kreongan, dan semayamkan kembali di TMP Patrang pada tanggal 15 Agustus 1960. Atas jasanya, dua sahabat Sroedji dan dr. Soebandi diabadikan dalam sebuah monumen yang dapat kita lihat setiap hari ketika memasuki Jember, jika kalian datang dari arah barat. 
+                          Jenazah dr. Soebandi kemudian ditemukan di tepi sawah di Dusun Plalangan, Desa Karang Kedawung. Saat ditemukan jenazah dr. Soebandi dibawa ke DKT untuk disemayamkan. Tanggal 26 Maret 1950 dr. Soebandi kembali disemayamkan di TMP Kreongan, dan semayamkan kembali di TMP Patrang pada tanggal 15 Agustus 1960. Atas jasanya, Sroedji dan dr. Soebandi diabadikan dalam sebuah monumen yang dapat kita lihat setiap hari ketika memasuki Jember, jika kalian datang dari arah barat. 
                           </p>
                         </div>
                       </div>
@@ -209,7 +209,7 @@
                       <div style="text-align: center" class="col-lg-10 video-box" data-aos="fade-up" data-aos-delay="200">
                         <br>
                         <img  src="assets/img/gambar/makam subandi.jpg" class="img-fluid" alt="gambar" width="400">
-                        <p style="margin-bottom: 0rem;text-indent: 0">Patung Sroedji dan dr. Soebandi</p>
+                        <p style="margin-bottom: 0rem;text-indent: 0">Makam dr. Soebandi</p>
                         <p style="text-indent: 0"> Sumber: Dokumentasi Pribadi</p>
                         {{-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a> --}}
                       </div>
@@ -319,13 +319,13 @@
                     <li class="media my-4">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>27 Agustus, 2022 
                       </div>
                     </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 27 Agustus, 2022
+                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 3 September, 2022
                       </div>
                   </li>
               </ul>

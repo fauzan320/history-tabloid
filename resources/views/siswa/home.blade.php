@@ -61,7 +61,7 @@
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">SELAMAT DATANG DI <span>E-HISTAB</span></h2>
-                <p class="animate__animated animate__fadeInUp">E-HISTAB (Electronic Historical Tabloid) merupakan  
+                <p class="animate__animated animate__fadeInUp">E-HISTAB (<i>Electronic Historical Tabloid</i>) merupakan  
                   media pembelajaran interaktif berupa tabloid tentang sejarah pertempuran Karang Kedawung tahun 1949.</p>
                 <a href="#blog_section" style="background-color:#ff4500; border-color:orangered " class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
               </div>
@@ -273,7 +273,7 @@
                                 </div>
                                 <ul>
                                   <li><i class="icon ion-md-person"></i>Zahira</li>
-                                  <li><i class="icon ion-md-calendar"></i>21 Agustus 2022</li>
+                                  <li><i class="icon ion-md-calendar"></i>27 Agustus 2022</li>
                                 </ul>
                                 <p style="text-indent: 0">Pertempuran Karang Kedawung terjadi pada tahun 1949 di Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten...</p>
                                 <a href="/kesimpulan">Read More<i class="icofont-long-arrow-right"></i></a>
@@ -291,7 +291,7 @@
                                   </div>
                                   <ul>
                                     <li><i class="icon ion-md-person"></i>Zahira</li>
-                                    <li><i class="icon ion-md-calendar"></i>27 Agustus 2022</li>
+                                    <li><i class="icon ion-md-calendar"></i>3 September 2022</li>
                                   </ul>
                                   <p style="text-indent: 0">Setelah kalian membaca dua artikel sebelumnya, sebagaimana yang telah kita ketahui bahwa...</p>
                                   <a href="/tabloidtest">Read More<i class="icofont-long-arrow-right"></i></a>

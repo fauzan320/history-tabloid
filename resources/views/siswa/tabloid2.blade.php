@@ -38,7 +38,7 @@
                         <!-- paragraf 1 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description"> 
-                          Merdeka, satu kata yang umumnya kita pahami dengan arti kebebasan. Proklamasi yang dikumandangkan oleh Ir.Soekarno pada tanggal 17 Agustus 1945 menandakan Indonesia telah merdeka, bebas dari penjajahan. Namun, setelah itu bukan berarti Indonesia benar-benar bebas dari ancaman pihak luar. Dalam buku Sejarah Nasional Indonesia Jilid 6 disebutkan, “Setelah proklamasi kemerdekaan, kedatangan pasukan sekutu terdapat serdadu Belanda dan NICA (<i>Netherlands Indies Civil Administration</i>) yang secara terang-terangan bertujuan mendirikan pemerintah Hindia-Belanda”. Ancaman tersebut tentunya tidak ditanggapi secara “santai” oleh bangsa kita. Maka dari itu jalan yang ditempuh adalah menyikapinya dengan cara diplomasi dan perang.
+                          Merdeka, satu kata yang umumnya kita pahami dengan arti kebebasan. Proklamasi yang dikumandangkan oleh Ir. Soekarno pada tanggal 17 Agustus 1945 menandakan Indonesia telah merdeka, bebas dari penjajahan. Namun, setelah itu bukan berarti Indonesia benar-benar bebas dari ancaman pihak luar. Dalam buku Sejarah Nasional Indonesia Jilid 6 disebutkan, “Setelah proklamasi kemerdekaan, kedatangan pasukan sekutu terdapat serdadu Belanda dan NICA (<i>Netherlands Indies Civil Administration</i>) yang secara terang-terangan bertujuan mendirikan pemerintah Hindia-Belanda”. Ancaman tersebut tentunya tidak ditanggapi secara “santai” oleh bangsa kita. Maka dari itu jalan yang ditempuh adalah menyikapinya dengan cara diplomasi dan perang.
                           </p>
                           
                         </div>
@@ -67,7 +67,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem; text-indent:0" class="description">
-                          Lokasi pertempuran terjadi di Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten Jember. Peristiwa tersebut masih berkaitan dengan Agresi Militer Belanda II. Saat terjadi ageresi Panglima Besar Jenderal Soedirman memerintahkan jajarannya untuk melaksanakan Perintah Kilat Nomor 1 yang disampaikan pada tanggal 19 Desember 1948. Selanjutnya, Kolonel Soengkono, selaku pemimpin Divisi I Jawa Timur Brigade III/Damarwulan yang dipimpin oleh Letkol. Mochammad Sroedji melaksanakan wingate (penyusupan) ke Besuki. Jalur yang mereka lalui dari Kediri hingga Besuki dengan jarak kurang kebih 500 km selama 51 hari. 
+                          Lokasi pertempuran terjadi di Desa Karang Kedawung, Kecamatan Mumbulsari, Kabupaten Jember. Peristiwa tersebut masih berkaitan dengan Agresi Militer Belanda II. Saat terjadi ageresi Panglima Besar Jenderal Soedirman memerintahkan jajarannya untuk melaksanakan Perintah Kilat Nomor 1 yang disampaikan pada tanggal 19 Desember 1948. Selanjutnya, Kolonel Soengkono, selaku pemimpin Divisi I Jawa Timur Brigade III/Damarwulan yang dipimpin oleh Letkol. Mochammad Sroedji melaksanakan <i>wingate</i> (penyusupan) ke Besuki. Jalur yang mereka lalui dari Kediri hingga Besuki dengan jarak kurang kebih 500 km selama 51 hari. 
                           </p>
                         </div>
                       </div>
@@ -101,7 +101,7 @@
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <br>
                           <p style="margin-bottom: 0rem" class="description">
-                          Pasukan Brigade III tiba di Desa Karang Kedawung pada tanggal 7 Februari 1949. Keesokan harinya, pada tanggal 8 Februari 1949 Sroedji memberikan perintah kepada pasukan kawal brigade melakukan pengaturan pengamanan dan penempatan para pasukan untuk diarahkan pada lokasi ketinggian yang dianggap strategis. Namun perlu kalian ketahui, ternyata keberadaan Brigade III telah diketahui oleh Belanda. Letkol J. H. J. Brendgen selaku pemimpin Batalyon Infanteri XIII KNIL telah melakukan pengepungan di Desa Karang Kedawung. Di saat pasukan Brigade III menuju lokasi ketinggian yang telah direncanakan, tiba-tiba mereka diserang musuh. Kedatangan musuh berasal dari Kebun Lengkong, Desa Mumbulsari. Dengan penyerangan yang dilakukan oleh pasukan Belanda tersebut menandakan dimulainya Pertempuran Karang Kedawung. Pasukan Brigade III dengan semangat dan tekad yang kuat berjuang melawan pasukan Belanda.
+                          Pasukan Brigade III tiba di Desa Karang Kedawung pada tanggal 7 Februari 1949. Keesokan harinya, pada tanggal 8 Februari 1949 Sroedji memberikan perintah kepada pasukan kawal brigade melakukan pengaturan pengamanan dan penempatan para pasukan untuk diarahkan pada lokasi ketinggian yang dianggap strategis. Namun perlu kalian ketahui, ternyata keberadaan Brigade III telah diketahui oleh Belanda. Letkol. J. H. J. Brendgen selaku pemimpin Batalyon Infanteri XIII KNIL telah melakukan pengepungan di Desa Karang Kedawung. Di saat pasukan Brigade III menuju lokasi ketinggian yang telah direncanakan, tiba-tiba mereka diserang musuh. Kedatangan musuh berasal dari Kebun Lengkong, Desa Mumbulsari. Dengan penyerangan yang dilakukan oleh pasukan Belanda tersebut menandakan dimulainya Pertempuran Karang Kedawung. Pasukan Brigade III dengan semangat dan tekad yang kuat berjuang melawan pasukan Belanda.
                           </p>
                         </div>
                         
@@ -199,7 +199,7 @@
                         <!-- paragraf 4 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                          Brigade III/Damarwulan selama melakukan <i>wingate</i> hingga berperang secara gerilya tidak lupa dibantu oleh rakyat sipil. Bahkan A. H. Nasution berkata, “ <i>Selama rakyat selalu bersama melakukan pergerakan dengan brigade, maka disaat itu pula brigade dapat melakukan tugasnya</i> ”. Maka dari itu perlawanan terhadap Belanda tetap dilakukan bersama rakyat hingga penyerahan Yogyakarta kepada RI dan dibebaskannya Sukarno beserta Mohammad Hatta pada Juli 1949. 
+                          Brigade III/Damarwulan selama melakukan <i>wingate</i> hingga berperang secara gerilya tidak lupa dibantu oleh rakyat sipil. Bahkan A. H. Nasution berkata, <i>“Selama rakyat selalu bersama melakukan pergerakan dengan brigade, maka disaat itu pula brigade dapat melakukan tugasnya”</i>. Maka dari itu perlawanan terhadap Belanda tetap dilakukan bersama rakyat hingga penyerahan Yogyakarta kepada RI dan dibebaskannya Sukarno beserta Mohammad Hatta pada Juli 1949. 
                           </p>
                         </div>
                         
@@ -209,7 +209,7 @@
                         <!-- paragraf 5 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem" class="description">
-                          Atas segala jasa bangsa dan negara, Letkol inf. (Anumerta) Mochammad Sroedji dijadikan sebagai Bintang Mahaputera pada masa pemerintahan Presiden Joko Widodo yang telah tertera dalam Keppres RI No. 91/TK/Tahun 2016 pada tanggal 3 November 2016.    
+                          Atas segala jasa bangsa dan negara, Letkol. inf. (Anumerta) Mochammad Sroedji dijadikan sebagai Bintang Mahaputera pada masa pemerintahan Presiden Joko Widodo yang telah tertera dalam Keppres RI No. 91/TK/Tahun 2016 pada tanggal 3 November 2016.    
                           </p>
                         </div>
                         
@@ -345,13 +345,13 @@
                     <li class="media my-4">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>27 Agustus, 2022 
                       </div>
                     </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 27 Agustus, 2022
+                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 3 September, 2022
                       </div>
                   </li>
               </ul>

@@ -76,7 +76,7 @@
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">SELAMAT DATANG DI <span>E-HISTAB</span></h2>
-                <p class="animate__animated animate__fadeInUp">E-HISTAB (Electronic Historical Tabloid) merupakan  
+                <p class="animate__animated animate__fadeInUp">E-HISTAB (<i>Electronic Historical Tabloid</i>) merupakan  
                   media pembelajaran interaktif berupa tabloid tentang sejarah pertempuran Karang Kedawung tahun 1949.</p>
                 {{-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a> --}}
                 @if (Route::has('login'))
@@ -103,7 +103,7 @@
                 {{-- <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2> --}}
                 <p class="animate__animated animate__fadeInUp">Tabloid ini bertujuan agar kalian bisa mengetahui
                   dan memahami latar belakang hingga kronologi Pertempuran Karang Kedawung. Selain itu 
-                diharapkan kalian mengenal tokoh utama dibalik pertempuran ini.</p>
+                diharapkan kalian mengenal tokoh utama di balik pertempuran ini.</p>
                 @if (Route::has('login'))
                 <div >
                     @auth

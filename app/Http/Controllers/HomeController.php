@@ -95,6 +95,8 @@ class HomeController extends Controller
         $betul=0;
         $salah=0;
         $kosong=0;
+        $nobenar=[];
+        $nosalah=[];
         $total=0;
         //untuk memasukan jawaban user ke array jawaban
         for ($i=1; $i < 21; $i++) { 
@@ -104,13 +106,19 @@ class HomeController extends Controller
         for ($i=0; $i < 20; $i++) { 
             if ($jawab[$i]==$kunci[$i]) {
                 $betul+=1;
+                $nobenar[]=$i+1;
             } elseif ($jawab[$i]==null) {
                 $kosong+=1;
+                $nosalah[]=$i+1;
             } else{
                 $salah+=1;
+                $nosalah[]=$i+1;
             }
         }
         $total=$betul*5;
+        $bnr= implode(" ",$nobenar);
+        $slh= implode(" ",$nosalah);
+        $nilai=$total . "  \n No.Benar : " . $bnr . ", No.Salah : " . $slh;
         DB::table('users')->where('id', Auth::user()->id)->update([
             'nilai' => $total,
             

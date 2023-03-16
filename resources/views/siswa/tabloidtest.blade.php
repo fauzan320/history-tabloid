@@ -44,7 +44,7 @@
                       
                       <div class="col-lg-12 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem" class="description">Setelah kalian membaca dua artikel sebelumnya, sebagaimana yang telah kita ketahui bahwa Pertempuran Karang Kedawung tidak terlepas dari peristiwa Agresi Militer Belanda II yang mendorong pasukan Brigade III/Damarwulan melakukan wingate action. Nah, pertempuran yang berlangsung tanggal 8 Februari 1949 di Desa Karang Kedawung mendorong timbulnya beberapa korban jiwa, salah satunya Sroedji sebagai pemimpin pasukan Brigade III.
+                          <p style="margin-bottom: 0rem" class="description">Setelah kalian membaca dua artikel sebelumnya, sebagaimana yang telah kita ketahui bahwa Pertempuran Karang Kedawung tidak terlepas dari peristiwa Agresi Militer Belanda II yang mendorong pasukan Brigade III/Damarwulan melakukan <i>wingate action</i>. Nah, pertempuran yang berlangsung tanggal 8 Februari 1949 di Desa Karang Kedawung mendorong timbulnya beberapa korban jiwa, salah satunya Sroedji sebagai pemimpin pasukan Brigade III.
                             </p>
                         </div>
                       </div>

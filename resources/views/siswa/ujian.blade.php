@@ -46,7 +46,7 @@
                           <p style="text-indent: 0%" class="description">Kerjakan secara pribadi, agar penilaian yang dilakukan, berdasarkan pemahaman kalian terhadap
                             artikel yang sudah kamu baca, bisa maksimal. </p> 
                             <p style="text-indent: 0%" class="description"> <b>Selamat Mengerjakan ! </b> </p>
-                            <p style="text-indent: 0%" class="description">Tekan <b>Kerjakan</b>  untuk memulai, atau tekan <a href="/tabloid3">Kembali</a> untuk meninggalkan soal.</p>
+                            <p style="text-indent: 0%" class="description">Tekan <b>Kerjakan</b>  untuk memulai, atau tekan <a href="/home#blog_section">Kembali</a> untuk meninggalkan soal.</p>
                           
                         </div>
                         
@@ -61,8 +61,8 @@
                           <div class="text text-center mt-4"data-aos="fade-up" data-aos-delay="200">
                             {{-- <a href="/tabloid"><button style="background-color:orangered; border-color:orangered " class="btn btn-primary">Prev</button></a> --}}
                             {{-- <a class="back-to-top" style="background-color:orangered; border-color:orangered"></a> --}}
-                            <a href="/tabloid3" ><button   style="padding: 10px 150px ; background-color:rgb(122, 122, 122); border-color:rgb(122, 122, 122) " class="btn btn-primary scroll-up"> Kembali</button></a>
-                            <a data-target="#carouselExampleCaptions" data-slide-to="1" ><button   style="padding: 10px 150px ; background-color:orangered; border-color:orangered " class="btn btn-primary scroll-up"> Kerjakan</button></a>
+                            <a href="/home#blog_section" ><button   style="margin-bottom: 1rem; padding: 10px 150px ; background-color:rgb(122, 122, 122); border-color:rgb(122, 122, 122) " class="btn btn-primary scroll-up"> Kembali</button></a>
+                            <a data-target="#carouselExampleCaptions" data-slide-to="1" ><button   style="margin-bottom: 1rem;padding: 10px 150px ; background-color:orangered; border-color:orangered " class="btn btn-primary scroll-up"> Kerjakan</button></a>
                             
                           </div>
                           
@@ -143,19 +143,50 @@
                           <br>
                             <h3 >Uji Pemahaman Siswa Terkait Sejarah Lokal Pertempuran Karang Kedawung</h3>
                             <hr>
-                            <p style="text-indent: 0" >Pilihlah Salah Satu Jawaban Pada Pertanyaan Dibawah Ini Dengan Tepat!  </p>
+                            <p style="text-indent: 0" >Pilihlah Salah Satu Jawaban Pada Pertanyaan di Bawah Ini Dengan Tepat!  </p>
                         </div>
                         @else 
                         
                         @endif
                         <!-- paragraf 1 -->
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          {{-- <p style="margin-bottom: 0rem" class="description">    “Wingate action”, mungkin beberapa diantara kalian masih belum familiar dengan istilah tersebut. Oke, perlu kalian ketahui sebelum peristiwa Pertempuran Karang Kedawung, pasukan Brigade III/Damarwulan yang dipimpin oleh Sroedji melakukan wingate action. Apa wingate action itu? Dilansir dari laman Pusjarah TNI, wingate action adalah, “menempatkan kembali setiap pasukan ke asalnya, setelah melakukan hijrah ke luar daerah kekuasaan Belanda sebelum Perundingan Renville”. Pasca ditandatanganinya Perundingan Renville  pada tanggal 17 Januari 1948 ternyata memberikan dampak merugikan bagi Indonesia, salah satunya memicu munculnya Agresi Militer II Belanda.</p> --}}
-                          <p  ><pre style="color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" > {{$soal->pertanyaan}}</pre></p>
-                          <input type="radio" id="a-{{$soal->id}}" name="{{$soal->id}}" value="a">
-                            <label style="margin-left: 1rem;color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="a-{{$soal->id}}">{{$soal->a}}</label>
+                          
+                          <div class="col-lg-11 d-flex flex-column justify-content-center about-content">
+                            <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
+                             
+                              <p style="margin-bottom: 0rem; color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" class="description">
+                                {{$soal->pertanyaan}}
+                              </p>
+                            </div>
+                          </div>
+                          <!-- <p  ><pre style="color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" > {{$soal->pertanyaan}}</pre></p> -->
+                         
+                          <label style="margin-left: 1rem;color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="a-{{$soal->id}}">
+                            <input type="radio" id="a-{{$soal->id}}" name="{{$soal->id}}" value="a">  
+                            &ensp; {{$soal->a}}
+                          </label>
                           <br>
-                          <input type="radio" id="b-{{$soal->id}}" name="{{$soal->id}}" value="b">
+                          <label style="margin-left: 1rem;color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="b-{{$soal->id}}">
+                            <input type="radio" id="b-{{$soal->id}}" name="{{$soal->id}}" value="b">  
+                            &ensp; {{$soal->b}}
+                          </label>
+                          <br>
+                          <label style="margin-left: 1rem;color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="c-{{$soal->id}}">
+                            <input type="radio" id="c-{{$soal->id}}" name="{{$soal->id}}" value="c">  
+                            &ensp; {{$soal->c}}
+                          </label>
+                          <br>
+                          <label style="margin-left: 1rem;color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="d-{{$soal->id}}">
+                            <input type="radio" id="d-{{$soal->id}}" name="{{$soal->id}}" value="d">  
+                            &ensp; {{$soal->d}}
+                          </label>
+                          <br>
+                          <label style="margin-left: 1rem;color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="e-{{$soal->id}}">
+                            <input type="radio" id="e-{{$soal->id}}" name="{{$soal->id}}" value="e">  
+                            &ensp; {{$soal->e}}
+                          </label>
+                          <br>
+                          <!-- <input type="radio" id="b-{{$soal->id}}" name="{{$soal->id}}" value="b"> 
                              <label style="margin-left: 1rem; color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="b-{{$soal->id}}">{{$soal->b}}</label>
                           <br>
                           <input type="radio" id="c-{{$soal->id}}" name="{{$soal->id}}" value="c">
@@ -166,7 +197,7 @@
                           <br>
                           <input type="radio" id="e-{{$soal->id}}" name="{{$soal->id}}" value="e">
                              <label style="margin-left: 1rem;color: #666;font-family: 'Open Sans', sans-serif;font-size: 14px; font-weight: 600;" for="e-{{$soal->id}}">{{$soal->e}}</label>
-                          <br>
+                          <br> -->
                         </div>
                         
                       </div>
@@ -215,7 +246,7 @@
                             <p style="text-indent: 0%; margin-top: 15px" class="description">Jika Sudah Yakin, Silahkan Tekan <b>Kirim</b> </p>
                             
                           </div>
-                        
+                        </div>
                       </div>
                       <!-- tombol post -->
                       <div class="col-lg-12 d-flex flex-column justify-content-center about-content">

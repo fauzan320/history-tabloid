@@ -52,14 +52,14 @@
                       </div>
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Jika kalian pernah melewati kantor bupati Kabupaten Jember pasti melihat patung besar di depannya. Nama tokoh pada patung tersebut adalah Mochammad Sroedji. Beliau merupakan salah satu tokoh pahlawan yang gugur dalam Pertempuran Karang Kedawung 1949.  </p>
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Jika kalian pernah melewati kantor bupati Kabupaten Jember pasti melihat patung besar di depannya. Nama tokoh pada patung tersebut adalah Mochammad Sroedji, yaitu salah satu tokoh pahlawan yang gugur dalam Pertempuran Karang Kedawung 1949.  </p>
                           
                         </div>
                       </div>
                       <!-- paragraf 2 -->
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
-                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Mengenal lebih dekat dengan Sroedji. Beliau anak kedua dari tujuh bersaudara pasangan H. Hasan dan Hj. Amna. Lahir di Bangkalan pada tanggal 1 Februari 1915.  Istri Sroedji bernama Roekmini. Dari pernikahannya dikaruniai empat anak yaitu Sutjahjo, Supomo, Sudi Astuti, dan Pudji Redjeki Irawati. 
+                          <p style="margin-bottom: 0rem;text-indent: 0" class="description">Sroedji merupakan anak kedua dari tujuh bersaudara pasangan H. Hasan dan Hj. Amna. Lahir di Bangkalan pada tanggal 1 Februari 1915.  Istri Sroedji bernama Roekmini. Dari pernikahannya dikaruniai empat anak yaitu Sutjahjo, Supomo, Sudi Astuti, dan Pudji Redjeki Irawati. 
                             </p>
                         </div>
                       </div>
@@ -69,7 +69,7 @@
                       <div class="col-lg-10 d-flex flex-column justify-content-center about-content">
                         <div class="text-justify" data-aos="fade-up" data-aos-delay="200">
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
-                          Sebelum berkarir dibidang militer, Sroedji menempuh beberapa jenjang pendidikan. Pertama beliau sekolah di HIS (<i>Hollandsch-Inlandsche School</i>) di Karesidenan Kediri. Selanjutnya, Sroedji bersekolah di <i>Ambacht Leergang</i> Malang, yaitu sekolah pendidikan teknik pertukangan. Tidak hanya itu, Sroedji tercatat pernah mengambil sekolah Pemberantasan Malaria. Dari sekolah itulah yang mengantarkan Sroedji datang ke Jember dan bekerja sebagai mantri malaria di <i>Gozondheids Kantoor</i> (Djawatan Kesehatan Rakyat). Saat ini Djawatan Kesehatan Rakyat dikenal dengan nama Rumah Sakit Paru yang lokasinya berada di Desa Kreongan, Kecamatan Patrang, Kabupaten Jember. 
+                          Sebelum berkarir dibidang militer, Sroedji menempuh beberapa jenjang pendidikan. Pertama Sroedji bersekolah di HIS (<i>Hollandsch-Inlandsche School</i>) di Karesidenan Kediri. Selanjutnya, Sroedji bersekolah di <i>Ambacht Leergang</i> Malang, yaitu sekolah pendidikan teknik pertukangan. Tidak hanya itu, Sroedji tercatat pernah mengambil sekolah Pemberantasan Malaria. Dari sekolah itulah yang mengantarkan Sroedji datang ke Jember dan bekerja sebagai mantri malaria di <i>Gozondheids Kantoor</i> (Djawatan Kesehatan Rakyat). Saat ini Djawatan Kesehatan Rakyat dikenal dengan nama Rumah Sakit Paru yang lokasinya berada di Desa Kreongan, Kecamatan Patrang, Kabupaten Jember. 
                           </p>
                         </div>
                       </div>
@@ -399,13 +399,13 @@
                     <li class="media my-4">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>27 Agustus, 2022 
                       </div>
                     </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 27 Agustus, 2022
+                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 3 September, 2022
                       </div>
                   </li>
               </ul>

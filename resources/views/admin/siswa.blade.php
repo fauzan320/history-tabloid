@@ -1563,7 +1563,8 @@ p {
                       <th scope="col">Email</th>
                       <th scope="col">Kelas</th>
                       <th scope="col">Nilai</th>
-                      {{-- <th scope="col"></th> --}}
+                      <th scope="col"></th>
+
                     </tr>
                   </thead>
                   <tbody>
@@ -1577,7 +1578,8 @@ p {
                             {{$user->name}}
                         </td>
                         <td>
-                            {{$user->email}}
+                            {{$user->email}} <br>
+                            <!-- {{$user->password}} -->
                         </td>
                         <td>
                           <span class="badge badge-dot mr-4">
@@ -1589,27 +1591,34 @@ p {
                             <span class="mr-2">{{$user->nilai}}</span>
                             <div>
                               <div class="progress">
-                                <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="{{$user->nilai}}" aria-valuemin="0" aria-valuemax="100" style="width: {{$user->nilai}}%;"></div>
+                                <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="{{mb_substr(($user->nilai),0,3)}}" aria-valuemin="0" aria-valuemax="100" style="width: {{$user->nilai}}%;"></div>
                               </div>
                             </div>
+                            
                           </div>
+                          
                         </td>
-                        {{-- <td class="text-right">
+                        <td class="text-left">
                           <div class="dropdown">
                             
                             <a class="btn btn-sm btn-icon-only text-dark" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                              <i class="fa fa-ellipsis-v"></i>
+                              {{-- <i class="fa fa-ellipsis-v"></i> --}}
                                 <span class="icon"><ion-icon name="menu-outline"></ion-icon></span>
                             </a>
                             <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
-                              <a class="dropdown-item" href="#">Edit</a>
-                              <a class="dropdown-item" href="#">Hapus</a>
-                              <a class="dropdown-item" href="#">Something else here</a>
+                              <a class="dropdown-item" href="{{url("siswa/edit/$user->id")}}">Edit</a>
+                              <!-- <a class="dropdown-item" href="#">Cek Hasil</a> -->
+                              <!-- <a class="dropdown-item" href="#">Hapus</a> -->
                             </div>
                           </div>
-                        </td> --}}
+                        </td>
                       </tr>
                     @endforeach
+                    <tr>
+                        <td>
+                            <br>
+                        </td>
+                    </tr>
                     
                   </tbody>
                 </table>

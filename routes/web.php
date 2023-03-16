@@ -36,6 +36,8 @@ Route::get('tabloidtest', [App\Http\Controllers\HomeController::class, 'tabloidt
 Route::post('post', [App\Http\Controllers\HomeController::class, 'post'])->name('post');
 
 Route::get('siswa', [App\Http\Controllers\siswa_controller::class, 'index'])->name('siswa');
+Route::get('/siswa/edit/{id}', [App\Http\Controllers\siswa_controller::class, 'edit']);
+Route::post('/siswa/update/{id}', [App\Http\Controllers\siswa_controller::class, 'update']);
 
 Route::get('listsoal', [App\Http\Controllers\soal_controller::class, 'index'])->name('listsoal');
 Route::get('/listsoal/edit/{id}', [App\Http\Controllers\soal_controller::class, 'edit']);

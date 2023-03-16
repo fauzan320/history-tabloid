@@ -138,7 +138,7 @@
                           <p style="margin-bottom: 0rem;text-indent: 0" class="description">
                           Selanjutnya perundingan di Kaliurang membahas 12 pasal penyelesaian politik oleh Belanda dan 6 asas tambahan dari KTN. Hasil dari perundingan tersebut menghasilkan dua keputusan diantaranya:
                           <br/>1.	<i>Truce-Agreement</i> (perjanjian genjatan senjata).
-                          <br/>2.	<i>Renville-principles</i> dan additional principles.
+                          <br/>2.	<i>Renville-principles</i> dan <i>Additional Principles.</i> 
 
                           </p>
                         </div>
@@ -292,7 +292,7 @@
                             <br/> - Helloindonesie. 2014. <i>Operatiee Kraai, (Online)</i>, (<a href="http://helloindonesie.wordpress.com" target="_blank">helloindonesie.wordpress.com</a>),
                             <br/>&ensp; diakses 30 Juni 2022.
                             <br/> - Nationaalarchief.nl. 1948. <i> Prowoelan Nabij Modjokerto Status-Quo Lijn, (Online)</i> ,
-                            <br/>&ensp; (<a href="http://nationaalarchief.nl/onderzoeken" target="_blank">nationaalarchief.nl/onderzoeken</a> ), diakses 30 Juni 2022. 
+                            <br/>&ensp; (<a href="http://nationaalarchief.nl/onderzoeken" target="_blank">nationaalarchief.nl/onderzoeken</a>), diakses 30 Juni 2022. 
                             <br/> - Westerhoven, L. V. 2011. <i>Vechten In Een Oorlog Die Zo Niet Mocht Worden Genoemd-
                             <br/>&ensp;Deel 2, (Online)</i>, (<a href="http://dutchdefencepress.com"target="_blank">dutchdefencepress.com</a>), diakses 30 Juni 2022.
                             
@@ -391,13 +391,13 @@
                     <li class="media my-4">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/cropkesimpulan.png" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>21 Agustus, 2022 
+                          <h5 class="mt-0 mb-1"><a href="/kesimpulan">Kesimpulan Pertempuran Karang Kedawung, Dari Awal Hingga Akhir</a></h5>27 Agustus, 2022 
                       </div>
                     </li>
                   <li class="media">
                       <img class="d-flex mr-3 img-fluid" width="64" src="assets/img/gambar/3.jpeg" alt="Generic placeholder image">
                       <div class="media-body">
-                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 27 Agustus, 2022
+                          <h5 class="mt-0 mb-1"><a href="/tabloidtest"> Yuk Uji Pemahaman Kalian Tentang Pertempuran Karang Kedawung</a></h5> 3 September, 2022
                       </div>
                   </li>
               </ul>
